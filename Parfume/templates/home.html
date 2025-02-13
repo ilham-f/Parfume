@@ -1,0 +1,17 @@
+{% extends 'index.html' %}
+
+{% block content %}
+    <!-- MAIN CONTAINER -->        
+        <h1 class="pt-8 pb-2 text-xl font-bold text-[#29363B]" id="myList">Popular Parfume!</h1>
+        <div class="grid grid-cols-5 overflow-clip gap-6">
+            {% for p in parfumes %}
+                <a>
+                    <div class="border border-black w-64 h-36 flex flex-col justify-center items-center p-3 bg-[#F9CB9C] rounded-lg">
+                        <span class="text-center">{{ p.name }}</span>
+                        <span class="text-center">Rp{{ p.price }}</span>
+                    </div>
+                </a>
+            {% endfor %}
+        </div>
+    <!-- END OF MAIN CONTAINER -->
+{% endblock %}

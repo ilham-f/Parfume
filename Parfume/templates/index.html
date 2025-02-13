@@ -1,0 +1,50 @@
+<!-- index.html -->
+{% load static %}
+<html>
+    <head>
+      <meta charset="utf-8" />
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <title>Parfume.</title>
+      <link rel="stylesheet" href="{% static 'css/output.css' %}">
+      <script src="{% static 'js/jquery.js' %}"></script>
+      <script defer src="https://use.fontawesome.com/releases/v5.1.0/js/all.js" integrity="sha384-3LK/3kTpDE/Pkp8gTNp2gR/2gOiwQ6QaO7Td0zV76UFJVhqLl4Vl3KL1We6q6wR9" crossorigin="anonymous"></script>
+    </head>
+    <body class="flex flex-col min-h-screen bg-[#99B998]">
+        <!-- NAVBAR -->
+        <div class="bg-[#29363B] px-20 py-8 fixed w-full top-0">
+            <div class="flex justify-between items-center">
+                <div class="flex items-center">
+                    <a href="{% url 'home' %}"><img class="w-36 h-10" src="{% static 'img/logo.png' %}" alt="netflix-font"></a>
+                    <nav class="ms-10 flex space-x-4">
+                        <a class="px-3 text-[#F6B26B] hover:text-[#FFA500]" href="{% url 'home' %}">Home</a>
+                        <a class="px-3 text-[#F6B26B] hover:text-[#FFA500]" href="">About</a>
+                        <a class="px-3 text-[#F6B26B] hover:text-[#FFA500]" href="{% url 'recommendation_form' %}">Find Your Parfume!</a>
+                        {% comment %} <a class="px-3 text-[#F6B26B] hover:text-[#FFA500]" href="{% url 'home' %}">Home</a>
+                        <a class="px-3 text-[#F6B26B] hover:text-[#FFA500]" href="{% url 'about' %}">About</a>
+                        <a class="px-3 text-[#F6B26B] hover:text-[#FFA500]" href="{% url 'find_perfume' %}">Find Your Parfume!</a> {% endcomment %}
+                    </nav>
+                </div>
+            </div>      
+        </div>
+        <!-- END OF NAVBAR -->
+
+        <div class="px-20 mt-28 flex-1">
+            {% block content %}{% endblock %}
+        </div>
+        
+        <!-- FOOTER -->
+        <footer class="text-center py-6">
+            <p>Copyright &copy 2025 Parfume.</p>
+        </footer>
+    </body>
+
+    <script>
+        $(document).ready(function () {
+            $('#dropdown').click(function (e) { 
+                e.preventDefault();
+                $('#dropdownMenu').toggleClass('hidden');
+            });
+        });
+    </script>
+</html>
