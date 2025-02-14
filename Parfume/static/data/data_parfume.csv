@@ -1,4 +1,4 @@
-no;brand;name;old_price;new_price;ml;concentration;department;scents;base_note;middle_note;item_rating;seller;seller_rating;num_seller_ratings
+no;brand;name;old_price;price;ml;concentration;department;scents;base_note;middle_note;item_rating;seller;seller_rating;num_seller_ratings
 0;PACO RABANNE;1 Million Lucky;395;244.55.00;100;EDT;Men;Woody;Oakmoss, Patchouli and Vetiver;Hazelnut, Jasmine, Cashmir Wood, Cedar and Honey;5;noon;04.02;98.1K
 1;Roberto Cavalli;Paradiso Assoluto;415;107.95;50;EDP;Women;Floral;Vanilla, Sandalwood And Patchouli;Wild Jasmine and Red Lily;04.08;noon;04.02;98.1K
 2;S.T.Dupont;Royal Amber;265;186.09.00;100;EDP;Unisex;Arabian;Lemon, Mint and Wood Moss;Sandalwood and Cedar;5;noon;04.02;98.1K

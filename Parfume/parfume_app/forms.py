@@ -25,7 +25,7 @@ class PerfumePreferenceForm(forms.Form):
         ('edt', 'Eau de Toilette (EDT)'),
     ]
 
-    preferred_scent = forms.ChoiceField(choices=SCENT_CHOICES, label="Scent")
+    scent = forms.ChoiceField(choices=SCENT_CHOICES, label="Scent")
     base_note = forms.CharField(max_length=100, label="Base Note")
     middle_note = forms.CharField(max_length=100, label="Middle Note")
     ml = forms.FloatField(label="Capacity (ml)")

@@ -2,45 +2,72 @@
 
 {% block content %}
     <!-- MAIN CONTAINER -->
-
     <div class="flex flex-col justify-between items-center">
-        <div class="flex flex-col justify-center w-[80%] h-[400px] border border-black rounded-lg p-8 mt-4">
-            <span class="text-xl font-bold bg-[#FDE2C7] px-5 py-1 rounded-lg border border-black">Find Your Parfume!</span>
-            <form action="#" method="POST" class="mb-0">
+        <div class="bg-[#F6B26B] flex flex-col justify-center items-center w-[80%] border border-black rounded-lg p-8 mt-4">
+            <span class="w-[30%] text-center text-[#29363B] text-xl font-bold bg-[#FDE2C7] px-5 py-1 rounded-lg border border-black">
+                Find Your Perfume!
+            </span>
+            <form action="{% url 'recommendations' %}" method="POST" class="mb-0">
+                {% csrf_token %}
                 <div class="grid grid-cols-2 gap-x-36 gap-y-6 mt-10">                    
+                    
+                    <!-- Preferred Scent (Dropdown) -->
                     <div class="text-left w-[450px]">
-                        <label class="text-gray-700 font-medium">Nama Parfum</label>
-                        <input type="text" name="name" placeholder="Masukkan nama parfum" 
+                        <label class="text-[#29363B] font-medium">Scent</label>
+                        <select name="scent" class="w-full p-2 border rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-400">
+                            {% for value, label in form.scent.field.choices %}
+                                <option value="{{ value }}">{{ label }}</option>
+                            {% endfor %}
+                        </select>
+                    </div>
+
+                    <!-- Base Note -->
+                    <div class="text-left w-[450px]">
+                        <label class="text-[#29363B] font-medium">Base Note</label>
+                        <input type="text" name="base_note"
                             class="w-full p-2 border rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-400">
                     </div>
+
+                    <!-- Middle Note -->
                     <div class="text-left w-[450px]">
-                        <label class="text-gray-700 font-medium">Nama Parfum</label>
-                        <input type="text" name="name" placeholder="Masukkan nama parfum" 
+                        <label class="text-[#29363B] font-medium">Middle Note</label>
+                        <input type="text" name="middle_note"
                             class="w-full p-2 border rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-400">
                     </div>
+
+                    <!-- Capacity (ml) -->
                     <div class="text-left w-[450px]">
-                        <label class="text-gray-700 font-medium">Nama Parfum</label>
-                        <input type="text" name="name" placeholder="Masukkan nama parfum" 
+                        <label class="text-[#29363B] font-medium">Capacity (ml)</label>
+                        <input type="number" name="ml" step="0.1"
                             class="w-full p-2 border rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-400">
                     </div>
+
+                    <!-- Concentration (Dropdown) -->
                     <div class="text-left w-[450px]">
-                        <label class="text-gray-700 font-medium">Nama Parfum</label>
-                        <input type="text" name="name" placeholder="Masukkan nama parfum" 
-                            class="w-full p-2 border rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-400">
+                        <label class="text-[#29363B] font-medium">Concentration</label>
+                        <select name="concentration" class="w-full p-2 border rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-400">
+                            {% for value, label in form.concentration.field.choices %}
+                                <option value="{{ value }}">{{ label }}</option>
+                            {% endfor %}
+                        </select>
                     </div>
+
+                    <!-- Price -->
                     <div class="text-left w-[450px]">
-                        <label class="text-gray-700 font-medium">Nama Parfum</label>
-                        <input type="text" name="name" placeholder="Masukkan nama parfum" 
-                            class="w-full p-2 border rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-400">
-                    </div>
-                    <div class="text-left w-[450px]">
-                        <label class="text-gray-700 font-medium">Nama Parfum</label>
-                        <input type="text" name="name" placeholder="Masukkan nama parfum" 
+                        <label class="text-[#29363B] font-medium">Maximum Price ($)</label>
+                        <input type="number" name="price" step="0.01"
                             class="w-full p-2 border rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-400">
                     </div>
                 </div>
+
+                <!-- Submit Button -->
+                <div class="text-center mt-8">
+                    <button class="bg-[#FDE2C7] text-[#29363B] px-20 py-1 border border-black rounded-lg font-medium" type="submit">
+                        Submit
+                    </button>
+                </div>
             </form>
         </div>
-    <div>
+    </div>
     <!-- END OF MAIN CONTAINER -->
 {% endblock %}

@@ -2,13 +2,14 @@
 
 {% block content %}
     <!-- MAIN CONTAINER -->        
-        <h1 class="pt-8 pb-2 text-xl font-bold text-[#29363B]" id="myList">Popular Parfume!</h1>
+        <h1 class="pt-8 pb-2 text-xl font-bold text-[#29363B]" id="myList">For You!</h1>
         <div class="grid grid-cols-4 overflow-clip gap-6">
-            {% for p in parfumes %}
+            {% for parfume in parfumes %}
                 <a>
                     <div class="border border-black w-64 h-36 flex flex-col justify-center items-center p-3 bg-[#F6B26B] rounded-lg">
-                        <span class="text-center">{{ p.name }}</span>
-                        <span class="text-center">Rp{{ p.price }}</span>
+                        <span class="text-center font-bold">{{ parfume.brand }}</span>
+                        <span class="text-center font-medium">{{ parfume.name }}</span>
+                        <span class="text-center">${{ parfume.price }}</span>
                     </div>
                 </a>
             {% endfor %}

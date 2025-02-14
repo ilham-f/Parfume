@@ -22,5 +22,7 @@ from parfume_app import views
 urlpatterns = [
     path("admin/", admin.site.urls),
     path("", views.home, name='home'),
+    path("about/", views.about, name='about'),
     path("recommendation_form/", views.recommendation_form, name='recommendation_form'),
+    path("recommendations/", views.recommendations, name='recommendations'),
 ]

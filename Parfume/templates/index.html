@@ -18,7 +18,7 @@
                     <a href="{% url 'home' %}"><img class="w-36 h-10" src="{% static 'img/logo.png' %}" alt="netflix-font"></a>
                     <nav class="ms-10 flex space-x-4">
                         <a class="px-3 text-[#F6B26B] hover:text-[#FFA500]" href="{% url 'home' %}">Home</a>
-                        <a class="px-3 text-[#F6B26B] hover:text-[#FFA500]" href="">About</a>
+                        <a class="px-3 text-[#F6B26B] hover:text-[#FFA500]" href="{% url 'about' %}">About</a>
                         <a class="px-3 text-[#F6B26B] hover:text-[#FFA500]" href="{% url 'recommendation_form' %}">Find Your Parfume!</a>
                         {% comment %} <a class="px-3 text-[#F6B26B] hover:text-[#FFA500]" href="{% url 'home' %}">Home</a>
                         <a class="px-3 text-[#F6B26B] hover:text-[#FFA500]" href="{% url 'about' %}">About</a>
@@ -34,7 +34,7 @@
         </div>
         
         <!-- FOOTER -->
-        <footer class="text-center py-6">
+        <footer class="py-6 absolute bottom-0 left-1/2 -translate-x-1/2">
             <p>Copyright &copy 2025 Parfume.</p>
         </footer>
     </body>
