@@ -17,14 +17,14 @@ import pandas as pd
 
 def home(request):
     parfumes = [
-        { "name": "Dior Sauvage", "price": 120000 },
-        { "name": "Chanel Bleu de Chanel", "price": 135000 },
-        { "name": "Yves Saint Laurent La Nuit De L'Homme", "price": 110000 },
-        { "name": "Creed Aventus", "price": 350000 },
-        { "name": "Tom Ford Oud Wood", "price": 250000 },
-        { "name": "Versace Eros", "price": 95000 },
-        { "name": "Armani Acqua di Gio", "price": 105000 },
-        { "name": "Jean Paul Gaultier Le Male", "price": 98000 },
+        { "name": "Dior Sauvage", "price": 120 },
+        { "name": "Chanel Bleu de Chanel", "price": 135 },
+        { "name": "Yves Saint Laurent La Nuit De L'Homme", "price": 110 },
+        { "name": "Creed Aventus", "price": 350 },
+        { "name": "Tom Ford Oud Wood", "price": 250 },
+        { "name": "Versace Eros", "price": 95 },
+        { "name": "Armani Acqua di Gio", "price": 105 },
+        { "name": "Jean Paul Gaultier Le Male", "price": 98 },
     ]
 
     context = {
