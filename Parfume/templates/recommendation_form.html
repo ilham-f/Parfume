@@ -8,7 +8,7 @@
             <span class="w-[30%] text-center text-[#29363B] text-xl font-bold bg-[#FDE2C7] px-5 py-1 rounded-lg border border-black">
                 Find Your Perfume!
             </span>
-            <form action="{% url 'recommendations' %}" method="POST" class="mb-0 w-full">
+            <form action="{% url 'recommendations' %}" method="POST" class="mb-0 w-full" id="perfumeForm">
                 {% csrf_token %}
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mt-8">
                     <!-- Scent Group -->
@@ -16,7 +16,7 @@
                         <!-- Preferred Scent -->
                         <div>
                             <label class="block text-[#29363B] font-medium mb-2">Scent</label>
-                            <select name="scent" class="w-full p-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-400 focus:border-transparent transition-all">
+                            <select id="scent" name="scent" class="w-full p-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-400 focus:border-transparent transition-all">
                                 {% for value, label in form.scent.field.choices %}
                                     {% if value == form.scent.value %}
                                         <option selected value="{{ value }}">{{ label }}</option>
@@ -30,14 +30,14 @@
                         <!-- Base Note -->
                         <div>
                             <label class="block text-[#29363B] font-medium mb-2">Base Note</label>
-                            <input type="text" name="base_note" value="{{ form.base_note.value }}"
+                            <input type="text" name="base_note" id="base_note" value="{{ form.base_note.value }}"
                                 class="w-full p-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-400 focus:border-transparent transition-all">
                         </div>
 
                         <!-- Middle Note -->
                         <div>
                             <label class="block text-[#29363B] font-medium mb-2">Middle Note</label>
-                            <input type="text" name="middle_note" value="{{ form.middle_note.value }}"
+                            <input type="text" name="middle_note" id="middle_note" value="{{ form.middle_note.value }}"
                                 class="w-full p-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-400 focus:border-transparent transition-all">
                         </div>
                     </div>
@@ -47,7 +47,7 @@
                         <!-- Concentration -->
                         <div>
                             <label class="block text-[#29363B] font-medium mb-2">Concentration</label>
-                            <select name="concentration" class="w-full p-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-400 focus:border-transparent transition-all">
+                            <select name="concentration" id="concentration" class="w-full p-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-400 focus:border-transparent transition-all">
                                 {% for value, label in form.concentration.field.choices %}
                                     {% if value == form.concentration.value %}
                                         <option selected value="{{ value }}">{{ label }}</option>
@@ -61,14 +61,14 @@
                         <!-- Capacity -->
                         <div>
                             <label class="block text-[#29363B] font-medium mb-2">Capacity (ml)</label>
-                            <input type="number" name="ml" step="0.1" value="{{ form.ml.value }}"
+                            <input type="number" name="ml" id="ml" step="0.1" value="{{ form.ml.value }}"
                                 class="w-full p-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-400 focus:border-transparent transition-all">
                         </div>
 
                         <!-- Price -->
                         <div>
                             <label class="block text-[#29363B] font-medium mb-2">Maximum Price ($)</label>
-                            <input type="number" name="price" step="0.01" value="{{ form.price.value }}"
+                            <input type="number" name="price" id="price" step="0.01" value="{{ form.price.value }}"
                                 class="w-full p-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-400 focus:border-transparent transition-all">
                         </div>
                     </div>
@@ -84,6 +84,22 @@
         </div>
     </div>
     <!-- END OF MAIN CONTAINER -->
+
+    <script>
+        document.getElementById('perfumeForm').addEventListener('submit', function(event) {
+            const scent = document.getElementById('scent').value;
+            const baseNote = document.getElementById('base_note').value;
+            const middleNote = document.getElementById('middle_note').value;
+            const concentration = document.getElementById('concentration').value;
+            const ml = document.getElementById('ml').value;
+            const price = document.getElementById('price').value;
+
+            if (!scent || !baseNote || !middleNote || !concentration || !ml || !price) {
+                alert('Semua kolom wajib diisi!');
+                event.preventDefault(); // Prevent form submission
+            }
+        });
+    </script>
 {% endblock %}
 
 
