@@ -1,0 +1,641 @@
+no;brand;name;old_price;new_price;ml;concentration;department;scents;base_note;middle_note;item_rating;seller;seller_rating;num_seller_ratings;cluster
+1;roberto cavalli;paradiso assoluto;415;107.95;50.0;edp;women;floral;vanilla sandalwood patchouli;wild jasmine red lily;4.08;noon;4.02;98.1;0
+4;roberto cavalli;uomo;260;94.95;50.0;edp;women;arabian;vanille benzoin tonka bean;african orange flower;4.08;noon;4.02;98.1;0
+5;roberto cavalli;cavalli;260;94.95;50.0;edp;women;arabian;vanille benzoin tonka bean;african orange flower;4.08;noon;4.02;98.1;0
+6;hugo boss;scent;220;220.0;50.0;edp;women;oriental;roasted cocoa;lavender osmanthus flower;4.0;richlight;43.0;4.0;0
+7;dorall collection;gold secret;43;12.35;100.0;edt;men;fruity;labdanum musk;lavender cloves;2.09;bag;3.07;14.1;0
+8;gucci;bamboo;575;189.0;75.0;edp;women;floral;sandalwood;casablanca lily ylang ylang extracomoros;4.08;alnajm;3.07;347.0;1
+9;yves saint laurent;oud absolu;536;273.0;80.0;edt;men;arabian;cistus myrrh oud amber;patchouli;4.05;alnajm;3.07;347.0;1
+11;calvin klein;u men;152;85.0;100.0;edt;men;citrus;white musk vetiver cedar;cacao pod;3.07;amlaq;3.09;135.0;0
+13;montale;black oud;455;240.0;100.0;edp;men;floral;mandarin orange agarwood;musk patchouli;3.03;noon;4.02;98.1;0
+15;chloe;love story;483;274.95;75.0;edp;women;floral;musk cedar cashmirwood patchouli;orange blossom stephanotis rose black currant peach;5.0;noon;4.02;98.1;0
+17;dorall collection;pure;22;0.434027778;100.0;edt;men;fresh;amber musk sandalwood coumarin vanilla;pink pepper cardomon cinnamon jasmin cumin red fruits lily nutmeg;4.09;bag;3.07;14.1;0
+20;narciso rodriguez;narciso rodriguez;595;200.0;100.0;edp;women;floral;patchouli sandalwood;amber musk;4.06;hadayiq baris;3.08;122.0;0
+22;revlon;charlie gold;143;43.0;100.0;edt;women;woody;sandalwood cedar wood vanilla caramel musk woody accords;jasmine rose muget freesia cinnamon;4.0;golden perfumes;3.06;113.0;0
+24;britney spears;fantasy;170;90.0;100.0;edp;women;vanilla;luid sandalwood jasmine amber vanilla;sweet napolitano cake verbena jacaranda wood grapefruit blossom;5.0;cute shop;3.08;76.0;0
+27;van cleef arpels;first;170.95;170.95;100.0;edt;women;floral;honey sandalwood tonka bean amber musk civet vanilla oakmoss vetiver;carnation tuberose orchid orris root jasmine hiacynth turkish rose ylangylang lilyofthevalley narcissus;5.0;noon;4.02;98.1;0
+28;narciso rodriguez;narciso rodriguez;465;226.0;100.0;edp;women;musk;patchouli sandalwood;amber musk;4.0;brand land;4.02;98.0;0
+30;estee lauder;knowing;585;220.0;75.0;edp;women;woody;oakmoss vetiver sandalwood amber;jasmine patchouli orange flower;5.0;kaya;4.03;4.0;0
+31;geoffrey beene;grey flannel men;361;79.0;120.0;edt;men;woody;tonka bean almond oakmoss vetiver cedar;mimose iris violet sage rose geranium narcissus;5.0;top langri;3.07;347.0;1
+33;rasasi;al wisam day;177;76.0;100.0;edp;men;oriental;oak moss rich musty oud;amber nuanced clary sage soft milky sandalwood woody cedarwood;4.03;hadayiq baris;3.08;122.0;0
+34;mancera;black vanilla;588;296.0;120.0;edp;unisex;woody;vanilla pods madagascar white musk;delicate bulgarian rose violet jasmine;3.0;make;3.08;71.0;0
+37;burberry;brit rhythm intense;370;136.65;90.0;edt;men;spicy;cashmere woodcoumaringuaiac woodleathersandalwoodtonka beansvanilla;amberbasillavendermintpatchouli;4.06;noon;4.02;98.1;0
+40;aigner;starlight;341;126.95;100.0;edp;women;floral;patchouli sandalwood vanilla white musk;cumin jasmine strawberries;5.0;noon;4.02;98.1;0
+41;bentley;azure;387;107.0;100.0;edt;men;citrus;cashmere wood tonka bean orcanox;pimento tea accord lavender clary sage;4.06;cute shop;4.01;538.0;1
+42;versace;dylan blue;85;20.05;5.0;edt;men;citrus;frankincense musk saffron tonka beans;ambroxan black pepper papyrus patchouli violet leaves;4.04;princess beauty;4.02;467.0;1
+44;yves saint laurent;la nuit de lhomme lintense;583;204.0;100.0;edp;men;vanilla;tonka bean patchouli;vanilla sage;5.0;parfumestor;4.01;319.0;1
+46;laura mars;splandid;36;36.0;100.0;edp;women;floral;vanilla amber;jasmine geranium neroli ylangylan;5.0;hadayiq baris;3.08;122.0;0
+47;giorgio armani;stronger;415;170.0;100.0;edt;men;vanilla;vanilla chestnut cedar amber wood guaiac wood;pineapple sage melon cinnamon lavender;4.05;hadayiq baris;3.08;122.0;0
+48;chloe;chloe;631;186.0;75.0;edp;women;floral;cedar amber;magnolia lilyofthevalley rose;3.05;;3.05;75.0;0
+49;hermes;terre dhermes;15;9.55;2.0;edt;men;citrus;patchouli cedar vetiver benzoin;pepper pelargonium;5.0;beautiful lady;3.08;23.0;0
+51;versace;dylan blue;425;217.85;100.0;edt;men;fresh;incense musk tonka bean saffron;ambroxan patchouli black pepper violet leaf papyrus;4.06;noon;4.02;98.1;0
+53;paco rabanne;invictus;395;210.0;100.0;edt;men;citrus;guaiac wood patchouli heart;ambregris accord grapefruit zests;4.08;boutique wareef;3.08;98.0;0
+55;dorall collection;scholar;19;9.45;100.0;edt;men;floral;patchouli moss woodyamber sandalwood musk dry woods;jasmine peach apple green notes lavender muguet dried fruits;5.0;bag;3.07;14.1;0
+56;calvin klein;eternity;131;100.0;100.0;edt;men;floral;sandalwood amber musk vetiver brazilian rosewood;coriander lily orange blossom juniper berries basil jasmine sage lilyofthevalley geranium;4.0;hadayiq baris;3.08;122.0;0
+58;paco rabanne;lady million;535;210.0;80.0;edp;women;floral;gardenia;arabic jasmine african orange flower;4.07;beauty ideas;3.09;61.0;0
+59;giorgio beverly hills;giorgio;120;120.0;90.0;edt;women;floral;sandalwood patchouli vanilla amber cedar oakmoss musk;ylangylang seductive tuberose gardenia jasmine rose orchid;5.0;faces;3.09;61.0;0
+60;guerlain;idylle;430;256.0;100.0;edp;women;floral;amber accord sandalwood;magnolia jasmine ylang ylang;4.03;moon light;3.09;33.0;0
+61;yves saint laurent;libre;655;410.0;90.0;edp;women;floral;amber vanilla ambergris musk;orange blossom jasmine lavender;4.09;parfumestor;4.02;25.0;0
+62;jean paul gaultier;scandal;400;288.0;50.0;edp;women;floral;patchouli beeswax caramel licorice;honey gardenia jasmine orange blossom peach;5.0;shopping life;4.02;20.0;0
+63;burberry;mr burberry;515;179.95;100.0;edp;men;woody;patchouli amber sandalwood vetiver benzoin cinnamon;lavender cedar nutmeg;4.05;noon;4.02;98.1;0
+64;ajmal;raindrops;97;47.95;50.0;edp;women;fruity;floral ambery woody;animalistic floral;4.07;noon;4.02;98.1;0
+66;burberry;mr burberry;295;200.0;100.0;edp;men;woody;patchouli amber sandalwood vetiver benzoin cinnamon;lavender cedar nutmeg;5.0;starperfume;3.09;537.0;1
+67;versace;dylan blue;85;20.05;5.0;edt;men;citrus;frankincense musk saffron tonka beans;ambroxan black pepper papyrus patchouli violet leaves;4.04;princess beauty;3.05;467.0;1
+69;united colors benetton;cold;51;27.95;100.0;edt;women;spicy;amber frankincense musk patchouli vanilla vetiver;coriander cumin pimiento;4.0;top langri;4.02;347.0;1
+70;ysl;supreme bouquet;1215;699.0;75.0;edp;unisex;woody;amber musk patchouli;tuberose jasmine ylangylang;5.0;parfum;3.05;244.0;0
+71;tommy hilfiger;tommy;340;129.0;100.0;edt;men;spicy;amber cactus cotton;cranberry rose apple;4.04;amlaq;3.09;135.0;0
+72;ralph lauren;safari;541;178.0;125.0;edt;men;woody;leather sandalwood amber patchouli musk oakmoss cedar;cyclamen carnation cinnamon tarragon jasmine rose;3.05;pinch perfum;3.05;75.0;0
+73;emporio armani;stronger;415;175.85;100.0;edt;men;floral;amberwood cedar chestnut vanilla;melon pineapple sage;4.05;flower;3.08;66.0;0
+74;ted lapidus;rumba passion ted lapidus;140;95.0;100.0;edt;women;floral;patchouli vanilla honey;jasmine rose;5.0;beauty gallery;3.07;59.0;0
+75;hugo boss;dark blue;159;129.0;75.0;edt;men;citrus;benzoin olibanum patchouli suede;pelargonium cypress sage;4.05;diorworld;3.06;30.0;0
+76;versace;dylan blue;425;217.85;100.0;edt;men;fresh;incense musk tonka bean saffron;ambroxan patchouli black pepper violet leaf papyrus;4.06;noon;4.02;98.1;0
+77;boucheron;quatre;462;169.75;100.0;edp;women;floral;caramel cashmere vanilla white musk;apple jasmine fishing rose;4.09;noon;4.02;98.1;0
+78;dorall collection;molto carina;27;8.55;100.0;edt;women;woody;musk lactone woody amber;tropical fruits peach jasmin water;4.0;bag;3.07;14.1;0
+79;armani;stronger intensely;457;336.0;100.0;edp;men;sweet aromatic;ambery woods;vanilla;4.08;flower;3.09;537.0;1
+80;paco rabanne;million;395;173.0;100.0;edt;men;woody;indian patchouli amber woody notes leather;rose absolute musk cinnamon bark;3.08;alnajm;3.07;347.0;1
+81;valentino;valentina;500;241.0;80.0;edp;women;floral;virginia cedarvanillaamber;strawberrytuberoseafrican orange flowerjasmine;5.0;top langri;3.07;347.0;1
+82;ard al zaafaran;oud hours;47;47.0;100.0;edp;unisex;fresh;amber incense sandalwood patchouli agarwood oud;spicy notes fruity notes jasmine gardenia ylangylang;4.0;attractive perfume;3.05;244.0;0
+87;guerlain;ideal;560;223.0;100.0;edp;men;fruity;leather sandalwood tonka beans;bulgarian rose cherry incense vanilla;4.08;majestueuse;4.08;21.0;0
+89;elie saab;girl shine;504;192.0;90.0;edp;women;arabian;iris jasmine sweet vanilla patchouli;roasted almonds ylangylang;5.0;flower;4.02;98.0;0
+90;narciso rodriguez;narciso rodriguez;436;215.75;50.0;edp;women;spicy;patchouli sandalwood;amber musk;4.03;noon;4.02;98.1;0
+91;ajmal;raindrops;97;47.95;50.0;edp;women;fruity;floral ambery woody;animalistic floral;4.07;noon;4.02;98.1;0
+92;roberto cavalli;uomo;349;126.0;100.0;edt;men;floral;cedar;honey lavender;5.0;noon;4.02;98.1;0
+93;montblanc;emblem absolu;395;116.0;100.0;edt;men;spicy;patchouli vetiver moss;pink pepper lavender fruits honey;4.07;modon;3.09;537.0;1
+94;lacoste;eau de lacoste l noir;330;85.0;100.0;edt;men;spicy;dark chocolate cashmeran coumarin patchouli;basil verbena lavender;4.08;alnajm;3.07;347.0;1
+99;le chameau;genesis oud malaki;73;73.0;100.0;edt;unisex;arabian;musk vetiver;agarwood apple patchouli amber;2.0;queen line;3.08;81.0;0
+100;avon;tomorrow;130;70.0;50.0;edp;women;floral;powdery floral woody balsamic rose;musk;4.05;tiffany;3.07;54.0;0
+101;paco rabanne;invictus;395;210.0;100.0;edt;men;citrus;guaiac wood patchouli heart;ambregris accord grapefruit zests;4.08;boutique wareef;3.08;98.0;0
+104;dorall collection;nashwa;43;14.02;100.0;edt;women;woody;amber patchouli vanilla musk sandalwood;magnolia gardenia lily valley freesia jasmine;5.0;bag;3.07;14.1;0
+106;hugo boss;xx;295;158.65;100.0;edt;women;fruity;amber musk sandalwood;jasmine rice rose;4.05;starperfume;3.09;537.0;1
+108;dunhill;desire;230;84.95;100.0;edt;men;fresh;vanilla musk labdanum;rose teakwood patchouli;4.02;hadayiq baris;3.08;122.0;0
+109;dior;sauvage;1176;240.85;100.0;edt;men;fresh;cedar labdanum ambroxan;geranium lavender sichuan pepper elemi pink pepper vetiver patchouli;3.08;;3.09;61.0;0
+110;trussardi;land;300;164.0;100.0;edt;men;woody;leather vetiver tonka bean;lavender violet calone;4.05;beautiful live;412.0;7.0;2
+111;dupont;passenger;95;95.0;100.0;edt;men;woody;guaiac wood benzoin;ginger cardamom pink pepper lavender;4.05;beautiful live;412.0;7.0;2
+112;angel schlesser;essential;287;103.95;100.0;edp;women;oriental;sandal wood musk vetiver;peony violet freesia bulgarian rose;4.06;noon;4.02;98.1;0
+113;calvin klein;euphoria;220;91.95;100.0;edt;men;woody;amber patchouli brazilian redwood suede;black basil sage cedar;5.0;noon;4.02;98.1;0
+116;dorall collection;classic black;9;8.08;100.0;edt;men;fresh;chocolatecashmere wood patchouli tonka bean;basil verbena lavender;4.0;beauty;3.09;538.0;1
+122;chopard;wish;182;96.0;75.0;edp;women;oriental;patchouli caramel amber sandalwood vanilla;honey milk lily valley orchid violet jasmine heliotrope osmanthus magnolia;4.08;dior fragrances;3.09;69.0;0
+123;paco rabanne;olympa;455;150.0;80.0;edp;women;floral;sandalwood cashmere ambergris;vanilla;4.05;asrar aljamal;3.08;61.0;0
+126;paco rabanne;olympea;458;134.0;80.0;edp;women;floral;cashmere sandalwood ambergris;salted vanilla;4.0;number one;4.02;1.3;0
+127;jennifer lopez;live;161;104.0;100.0;edp;women;fruity;tonka bean sensual rich creamy buttery lactonic caramel;uity red currant blossoms violet;5.0;starperfume;3.09;537.0;1
+129;lacoste;eau de lacoste l noir;330;85.0;100.0;edt;men;spicy;dark chocolate cashmeran coumarin patchouli;basil verbena lavender;4.08;alnajm;3.07;347.0;1
+130;calvin klein;euphoria intense;440;99.0;100.0;edt;men;spicy;cashmere woods madagascar vanilla burnt amber australian sandalwood;black basil sage cedar vetiver;4.02;alnajm;3.07;347.0;1
+133;bvlgari;petits et mamans;327;197.75;100.0;edt;women;floral;iris vanilla;white peach;4.08;tiffany;4.02;75.0;0
+135;trussardi;name;308;228.0;50.0;edp;women;floral;dry amber vanilla;lilac musk;4.06;beautiful live;4.02;7.0;0
+137;calvin klein;intense euphoria;290;109.95;100.0;edt;men;spicy;labdanum amber patchouli agarwood myrrh;black basil sage cedar vetiver;4.04;noon;4.02;98.1;0
+139;hermes;terre hermes;474;173.0;100.0;edt;men;citrus;woody notes patchouli cedar;geranium;3.09;boutique wareef;4.02;98.1;0
+142;genie;london burberry;29;0.649305556;25.0;edp;women;floral;wood musk;jasmine tiare flower soft peony;4.07;moon perfume;3.07;199.0;1
+143;roberto cavalli;women;430;103.0;75.0;edp;women;arabian;benzointonka beansvanilla;orange tree blossom;5.0;richlight;3.08;69.0;0
+144;lalique;lalique;541;249.0;100.0;edp;women;woody;white musksandalwoodvanilla;blackberrycassispear;4.04;faces;3.09;61.0;0
+145;franck olivier;oud touch;93;93.0;100.0;edp;men;woody;amber musk vanilla;violet patchouli rose jasmine olibanum;5.0;faces;3.09;61.0;0
+146;tommy hilfiger;tommy;340;130.0;100.0;edt;men;spicy;amber cactus cotton plant blossom;apple cranberries rose;5.0;faces;3.09;61.0;0
+147;elizabeth arden;th avenue;155;93.0;75.0;edp;women;floral;amber tibetan musk sandalwood iris vanilla;bulgarian pink violet ylangylang jasmine indian tuberose peach carnation nutmeg;4.0;ryhana perfume;4.02;25.0;0
+148;elie saab;girl;561;250.0;90.0;edp;women;floral;patchoulicashmerantonka bean almod milk;orange blossommagnolialmond;4.05;beuatyone;3.05;98.0;0
+149;paco rabanne;one million;426;287.95;200.0;edt;men;woody;blonde leather patchouli white woods amber;rose absolute cinnamon spices;5.0;noon original genuine product;4.02;98.1;0
+151;cacharel;noa;299;154.75;100.0;edt;women;fresh;woodsy transparent coffee incense touches;white flowers ylangylang rose;4.05;starperfume;3.09;537.0;1
+152;guess;seductive homme;134;91.75;100.0;edt;men;spicy;musk sandalwood patchouli amber;vetiver violet leaf orchid;4.05;starperfume;3.09;537.0;1
+153;al fakhr;ameer al oud khususi;28;12.0;100.0;edp;unisex;woody sweet;sandalwood cedarwood;black pepper cardamom;4.01;kikup;3.09;425.0;1
+155;givenchy;pour homme;219;117.0;100.0;edt;men;spicy;labdanum ceder;vetiver lavender;4.04;alnajm;3.07;347.0;1
+156;rasasi;blue;36.95;36.95;100.0;edt;men;spicy;amber woody;geranium rose coriander pepper jasmine;5.0;hadayiq baris;3.08;122.0;0
+157;giorgio armani;eau pour homme reno;361;186.0;50.0;edt;men;citrus;patchouli oakmoss sandalwood;cloves lily nutmeg;4.07;moon light;3.08;76.0;0
+158;lacoste;touch pink;238;95.0;50.0;edt;women;floral;woodsymusk base vanilla;jasmine unexpected carrot spicy coriander;4.06;cute shop;4.04;59.0;0
+159;guess;gold;341;119.0;75.0;edp;women;floral;sandalwood patchouli amber vetiver sensual musk;jasmine lotus intoxicating seductress rose;4.09;beautiful live;4.02;7.0;0
+161;lacoste;lacoste;368;115.0;100.0;edt;men;citrus;cedar woody notes amber vanilla musk;black pepper ginger jasmine almond;4.06;noon;4.02;98.1;0
+163;hugo boss;scent;535;155.0;100.0;edp;women;fruity;cacao;osmanthus;4.05;noon;4.02;98.1;0
+164;jaguar;classic gold;118;79.95;100.0;edt;men;woody;patchoulivanillamusk;orange blossomteak wood;4.07;starperfume;3.09;537.0;1
+165;franck olivier;frank olivier;139;87.0;75.0;edp;women;musk;musk sandalwood vanilla;jasmine ylangylang heliotrope rose;4.07;amlaq;3.09;135.0;0
+171;calvin klein;intense euphoria;290;109.95;100.0;edt;men;spicy;labdanum amber patchouli agarwood myrrh;black basil sage cedar vetiver;4.04;noon;4.02;98.1;0
+173;calvin klein;obsession;231;120.0;125.0;edt;men;spicy;amber sandalwood patchouli vanilla musk;brazilian rosewood sage myrrh pine tree nutmeg;3.0;noon;4.02;98.1;0
+174;lattafa;sheikh al shuyukh;63;32.75;50.0;edp;unisex;aromatic;vetiver patchouli;lavender sage rosemary;4.08;noon;4.02;98.1;0
+175;dolce gabbana;one;100;100.0;75.0;edp;women;fruity;tobacco amber cedar;orange blossom ginger cardamom;5.0;asrar aljamal;3.09;537.0;1
+176;kenzo;world intense;500;149.75;75.0;edp;women;spicy;vanilla;jasmine peony;4.0;starperfume;3.09;537.0;1
+179;mariah carey;forever;197;126.0;100.0;edp;women;floral;musk wood;gardenia tuberose;4.0;perfumesaddresses;4.04;59.0;0
+180;burberry;brit splash;278;194.0;100.0;edt;men;fresh;moss musk vetiver;cyclamen violet water notes;4.06;chansles;3.09;33.0;0
+181;prada;amber intense;324;321.95;100.0;edp;men;spicy;creamy amber;vanilla;4.04;ryhana perfume;4.02;25.0;0
+182;milton lloyd;hawaii london;51;23.0;55.0;edt;women;floral;woody notes musk;jasmine rose;4.0;hawas;4.02;9.0;0
+183;lattafa;khalis pure oudi;68;37.0;100.0;edp;unisex;woody;amber cedar guaiac wood musk vanilla;jasmine sandalwood;4.03;noon;4.02;98.1;0
+185;dorall collection;oud arabi;11.35;11.35;100.0;pdt;unisex;woody;patchouli sandalwood musk amber;oudh rose guaiac wood jasmine;3.09;princess beauty;3.08;467.0;1
+186;coach;coach;36;8.07;2.0;edp;women;floral;cashmeran suede musk;turkish rose gardenia;4.08;top langri;3.07;347.0;1
+187;mancera;coco vanille;446;285.0;120.0;edp;women;vanilla;white musk woody notes madagascar vanilla;jasmine ylangylang tiare flower;5.0;amlaq;3.09;135.0;0
+188;burberry;weekend;197;160.0;100.0;edp;women;oriental;violet root iris nectarine peach blossom rose hip red cyclamen blue hyacinth;violet root iris nectarine peach blossom rose hip red cyclamen blue hyacinth;4.06;amlaq;3.09;135.0;0
+191;amouage;gold;1376;904.85;100.0;edp;women;woody;ambergris civet musk cedar wood sandalwood;myrrh orris jasmine;4.04;parvant store;3.08;76.0;0
+192;givenchy;gentlemen;627;260.0;100.0;edt;men;woody;skin accord tonka bean;cedar wood patchouli heart leather;4.0;faces;3.09;61.0;0
+193;jaguar;classic amber;87;85.0;100.0;edt;men;arabian;cedar wood patchouli vanilla leather vetiver labdanum musk;cinnamonblack pepperappleorange blossoms elemi resin;4.03;abu al tayyeb perfumes;3.09;33.0;0
+194;aigner;debut;220;143.75;100.0;edp;women;citrus;patchouli cedar vanilla white musk oak moss;luminous orange blossom water lily jasmine sunflower seed;4.05;noon;4.02;98.1;0
+195;jcasanova;pandora;142;88.95;100.0;edp;women;floral;cedar moss musk amber sandalwood;lilyofthevalley rose jasmine narcissus orchid;5.0;noon;4.02;98.1;0
+196;roberto cavalli;serpentine;286;162.85;100.0;edp;women;arabian;tolu balsam sandalwood amber;violet leaf tiare flower pepper frangipani;4.04;noon;4.02;98.1;0
+197;bvlgari;man black;483;200.95;100.0;edp;men;woody;benzoin guaiac wood tonka beans;iris leather tuberose;4.07;starperfume;3.09;537.0;1
+198;montblanc;lady emblem;08.05;8.05;2.0;edt;men;floral;vanilla amber musk patchouli;jasmine geranium neroli ylangylang;5.0;queen beauty;3.08;467.0;1
+199;al fakhr;ameer al oud khususi;28;12.0;100.0;edp;unisex;woody sweet;sandalwood cedarwood;black pepper cardamom;4.01;kikup;3.06;425.0;1
+200;lacoste;touch pink;249;90.0;90.0;edt;women;floral;sandalwood musk vanilla;carrot seeds coriander jasmine violet leaf cardamom;5.0;cute shop;3.07;347.0;1
+202;burberry;burberry bl;699;255.85;90.0;edt;women;floral;amber patchouli;candied rose peach nectar;5.0;amlaq;3.09;135.0;0
+204;ted lapidus;creation;101;50.0;100.0;edt;women;floral;jasmine rose tuberose carnation;jasmine rose tuberose carnation;4.07;alkhalijiah perfume;3.05;88.0;0
+206;benetton;hot;124;29.85;100.0;edt;women;fruity;sandalwood amber musk vanilla oak moss cedar;apricot iris water jasmine lily valley;5.0;beauty gallery;3.07;59.0;0
+208;lacoste;lacoste;310;98.95;50.0;edp;women;floral;himalayan cedar warm woman skin accord sandal incense;heliotrope jasmine alliance hibiscus blossom bulgarian rose;4.06;noon;4.02;98.1;0
+209;lacoste;lacoste;368;115.0;100.0;edt;men;citrus;cedar woody notes amber vanilla musk;black pepper ginger jasmine almond;4.06;noon;4.02;98.1;0
+210;sedr alkhaleej perfumes;love touch;111;49.85;100.0;edp;women;fresh;woody leather musk;tiare flower rose;5.0;noon;4.02;98.1;0
+213;lanvin;rumeur;154;71.0;100.0;edp;women;floral;amber patchouli musk;orange blossom plum rose jasmine lily valley;5.0;top langri;3.07;347.0;1
+214;gucci;oud;690;380.0;75.0;edp;women;spicy;natural oud oil patchouli;bulgarian rose orange flower;4.02;amlaq;3.09;135.0;0
+215;chloe;love story;383;237.0;50.0;edp;men;floral;sandalwood amber musk vetiver brazilian rosewood;coriander lily orange blossom juniper berries basil jasmine sage lilyofthevalley geranium;4.0;hadayiq baris;3.08;122.0;0
+216;ted lapidus;rumba;111;58.0;100.0;edt;women;floral;ambergris vanilla leather tonka bean patchouli musk sandalwood cedar plum styrax oakmoss;honey jasmine tuberose carnation heliotrope magnolia gardenia lily valley orchid marigold rose;3.03;hadayiq baris;3.08;122.0;0
+217;amouage;honour;1607;710.95;100.0;edp;women;spicy;patchouli cedar vetiver frankincense musk tonka bean;geranium elemi nutmeg;5.0;richlight;3.08;66.0;0
+218;jimmy choo;jimmy;441;188.95;100.0;edp;women;floral;coffee patchouli;orchid;5.0;faces;3.09;61.0;0
+219;rasasi;blue;53;35.0;100.0;edt;men;spicy;amber woody;coriander geranium jasmine rose pepper;4.03;hawas;4.02;9.0;0
+220;dunhill;desire silver;192;118.95;100.0;edt;men;floral;birch vetiver amber;water notes violet leaf cardamom;5.0;noon;4.02;98.1;0
+221;calvin klein;euphoria amber gold;327;166.0;100.0;edp;unisex;arabian;lemon mint wood moss;sandalwood cedar;5.0;noon;4.02;98.1;0
+222;britney spears;fantasy;189;89.95;100.0;edp;women;floral;creamy musk orris root sensual woods;cupcakes white chocolate orchid jasmine petals;5.0;noon;4.02;98.1;0
+223;gucci;guilty absolute;515;299.85;90.0;edp;men;woody;woody notes vetiver;patchouli cypress;4.03;noon;4.02;98.1;0
+224;joop;homme;170;57.0;125.0;edt;men;citrus;patchouli sandalwood tonka beans vanilla;cardamom cinnamon heliotrope jasmine lily valley;4.02;cute shop;4.02;98.0;0
+225;calvin klein;obsession;231;120.0;125.0;edt;men;spicy;amber sandalwood patchouli vanilla musk;brazilian rosewood sage myrrh pine tree nutmeg;3.0;noon;4.02;98.1;0
+228;lancome;idol;739;299.0;50.0;edp;women;floral;white musk vanilla;turkish rose rose de mai indian jasmine;5.0;hadayiq baris;3.08;122.0;0
+230;cartier;declaration;390;240.0;100.0;edp;men;fruity;cedar leather amberwood benzointolu balsam vetiver;cardamom spices cumin;5.0;parfum;3.06;111.0;0
+231;marbert;man;51.95;51.95;125.0;edt;men;woody;musk sandalwood patchouli oak moss virginia cedar amber leather;geraniumjasminelily valleymajorjamcoriandernutmeg;5.0;neo lek;3.05;88.0;0
+232;calvin klein;one shock;176;106.0;200.0;edt;men;spicy;musk patchouli amber tobacco;black pepper lively black basil resinous cardamom;5.0;dior fragrances;3.09;69.0;0
+233;burberry;brit rhythm intense;370;136.65;90.0;edt;men;spicy;cashmere woodcoumaringuaiac woodleathersandalwoodtonka beansvanilla;amberbasillavendermintpatchouli;4.06;noon;4.02;98.1;0
+235;lancome;miracle;514;242.0;100.0;edp;women;arabian;amber musk jasmine;magnolia ginger mandarin orange pepper jasmine;5.0;parfumestor;4.02;98.0;0
+236;chopard;rose malaki;520;189.95;80.0;edp;women;spicy;cedarwood patchouli vanilla;rose absolu rose petal accord smoky leather;4.03;noon;4.02;98.1;0
+237;lacoste;blanc pour homme;356;95.0;100.0;edt;men;woody;leather suede cedar;mexican tuberose ylangylang;5.0;cute shop;3.09;537.0;1
+238;jaguar;classic red;64.95;64.95;100.0;edt;men;fruity;patchouli cedar amber tonka vanilla;jasmine pepper ozonic notes;4.04;starperfume;3.09;537.0;1
+239;lancome;la vie est belle;465;233.95;50.0;edp;women;floral;patchouli tonka bean vanilla praline;iris jasmine orange blossom;5.0;grass gulf;3.09;537.0;1
+240;givenchy;dahlia divin nude;549;300.0;75.0;edp;women;fresh;rose vanilla ginger;pine cardamom lavender rosemary;4.05;beautify;3.06;531.0;1
+241;dolce gabbana;one;299;190.0;100.0;edt;men;spicy;ambery cedar wood;cardamom ginger;4.07;hadayiq baris;3.08;122.0;0
+243;united colors benetton;united colors benetton hot;111;28.0;100.0;edt;men;woody;sandalwood amber musk vanilla oakmoss cedar;apricot iris water jasmine lilyofthevalley;4.0;dior fragrances;3.07;59.0;0
+245;carolina herrera;ch men sports;285;115.0;50.0;edt;men;woody;sandalwood oak moss vetiver;sea notes mixed spices aromatic accords sichuan pepper juniper berries;4.03;pink box;4.02;7.0;0
+248;mancera;cedrat boise;413;253.0;120.0;edp;unisex;aromaticcitrus;leatheroakmossvanillawoody notes;patchouli leaves;5.0;starperfume;3.07;537.0;1
+251;givenchy;blue label;380;143.85;100.0;edt;men;spicy;cedar olibanum vetiver;cardamom lavender pepper;4.08;hadayiq baris;3.08;122.0;0
+252;dior;joy;500;360.0;90.0;edp;women;woody;sandalwood cedar wood vanilla caramel musk woody accords;jasmine rose muget freesia cinnamon;4.0;golden perfumes;3.06;113.0;0
+253;lalique;encre noire;140;136.0;100.0;edt;men;woody;musk cashmere wood;haitian bourbon vetiver;4.05;abu al tayyeb perfumes;3.06;76.0;0
+254;calvin klein;ck one;220;98.0;100.0;edt;unisex;citrus;sandalwood amber musk cedar oakmoss green tea green accord;nutmeg violet orris root lilyofthevalley rose freesia jasmine;4.05;spicebomb;3.08;66.0;0
+255;paco rabanne;black xs;429;310.0;100.0;edt;men;woody;black amber patchouli;praline cinnamon;4.03;parfumestor;3.09;61.0;0
+256;azzaro;pour homme;225;133.0;100.0;edt;men;woody;leather tonka bean amber musk oakmoss;sandalwood juniper berries patchouli vetiver cedar cardamom;5.0;instant;3.07;44.0;0
+257;cerruti;cerruti;117;117.0;100.0;edt;men;floral;musk sandalwood patchouli oakmoss cedar pepper pine tree;vetiver ylangylang rose lilyofthevalley cassia;1.0;london store;3.07;23.0;0
+258;rasasi;relation;126;55.0;50.0;edp;women;fresh;musk vanilla;bulgarian rose lilac jasmine;5.0;willow flower;4.03;5.0;0
+259;escada;magnetism;395;138.95;75.0;edp;women;arabian;sandalwood amber patchouli musk benzoin caramel vetiver vanilla;magnolia iris green leaves freesia basil jasmine caraway heliotrope lilyofthevalley rose almond blossom;5.0;noon;4.02;98.1;0
+261;dorall collection;eventful;29;8.03;100.0;edt;women;woody;musk;rose ylang ylang;4.05;bag;3.07;14.1;0
+263;versace;lhomme;185;145.0;100.0;edt;men;citrus;amberlabdanumleathermusktonka beansvanilla;carnationcedarcinnamonjasminepatchoulirosesandalwood;4.02;amlaq;3.09;135.0;0
+265;burberry;burberry bl;699;255.85;90.0;edt;women;floral;amber patchouli;candied rose peach nectar;5.0;amlaq;3.09;135.0;0
+266;davidoff;cool water;360;76.95;125.0;edt;men;woody;amber cedar musk oakmoss tobacco;geranium jasmine neroli sandalwood;4.05;hadayiq baris;3.08;122.0;0
+267;joop;go;175;103.95;100.0;edt;men;fresh;musk balsam fir;cypress violet bourbon geranium;4.04;abu al tayyeb perfumes;3.06;111.0;0
+268;jacques bogart;silver scent;140;55.0;100.0;edt;men;arabian;vetiver litchi tonka bean teak wood;cardamom rosemary nutmeg lavender coriander geranium;4.05;lady style;4.03;88.0;0
+269;paris hilton;fairy dust;94;94.0;100.0;edp;women;floral;vanilla musk pacsuli;peachgardenialotus;3.07;fajrperfume;3.08;23.0;0
+270;prive;windsor;39;29.95;100.0;edp;women;fruity;vanilla blackberry amber;jasmine magnalio orange bloosm;3.0;vipparfume;4.01;5.0;0
+271;narciso rodriguez;narciso;591;284.95;90.0;edp;women;floral;vetiver white cedar extract cedar;musk gardenia white rose;5.0;noon;4.02;98.1;0
+273;jimmy choo;jimmy;329;185.0;100.0;edt;men;fruity;amber patchouli suede;geranium pineapple leaf pink pepper;4.04;starperfume;3.09;537.0;1
+274;montblanc;explorer;12;9.05;2.0;edp;men;woody;vetiver leather cedarwood;patchouli mahonial ambrofix;4.08;princess beauty;3.08;467.0;1
+278;ferrari;scuderia red;218;96.65;125.0;edt;men;fruity;cedar sandalwood moss vanilla;jasmine geranium orris nutmeg;5.0;amlaq;3.09;135.0;0
+279;jacomo;silences;158;143.95;100.0;edp;women;floral;woodymusky;danmask roseirisnarcissus;5.0;amlaq;3.09;135.0;0
+280;jil sander;jil sander;310;175.0;125.0;edt;men;spicy;oakmoss cedar nutmeg woody notes;carnation geranium cinnamon patchouli;5.0;hadayiq baris;3.08;122.0;0
+282;guess;marciano;108.95;108.95;100.0;edp;women;floral;powdery vanilla musk woody accord;floral rhythm peony pink honeysuckle intensively clean sweet jasmine;5.0;luxury;412.0;7.0;2
+283;joop;homme;170;57.0;125.0;edt;men;citrus;patchouli sandalwood tonka beans vanilla;cardamom cinnamon heliotrope jasmine lily valley;4.02;cute shop;3.07;98.0;0
+285;hugo boss;hugo boss;214;95.0;125.0;edt;men;fresh;patchouli fir cedar;carnation sage geranium jasmine;4.05;cute shop;4.02;425.0;1
+286;mini collection;mini collection;10;10.0;25.0;edp;unisex;musk;wood;vanilla;5.0;nuna;3.09;266.0;1
+288;hugo boss;hugo;395;115.0;125.0;edt;men;aromatic;cedar wood fir patchouli;carnation geranium jasmine sage;4.02;grass gulf;3.05;135.0;0
+289;calvin klein;one shock;177;102.0;200.0;edt;men;spicy;amber patchouli woodsy notes musk;cardamom pepper basil osmanthus;4.07;amlaq;3.09;135.0;0
+291;giorgio armani;eau de cedre;1204;470.0;100.0;edt;men;woody;suede cedar essence black tea woody notes;violet leaf cardamom cumin;4.07;moon light;3.08;76.0;0
+292;mancera;red tobacco;590;340.0;120.0;edp;men;woody;precious tobacco amber woody notes vetiver vanilla pods white musk;patchouli leaves jasmine;4.07;faces;4.02;61.0;0
+293;jean paul gaultier;scandal;622;350.0;80.0;edp;women;floral;sandalwood caramel beeswax patchouli;honey peach orange blossom jasmine gardenia;5.0;faces;3.09;61.0;0
+296;calvin klein;escape;184;94.95;100.0;edp;women;oriental;vanilla musk cedar sandalwood oakmoss amber vetiver;carnation rose peach lily valley jasmine cloves;5.0;noon;4.02;98.1;0
+297;dorall collection;dionysus;39;10.06;100.0;edt;men;floral;aromatic cedarwood tonka amber vetiver;ozonic tones geranium violet cool eucalyptus crisp green apple;3.0;bag;3.07;14.1;0
+298;genie;collection;43;17.08;40.0;edp;women;fruity;vegetal amber musk mahogany;magnolia lotus peony;4.08;parisian store;3.09;425.0;1
+299;lancome;la vie est belle;560;217.0;75.0;edp;women;vanilla;patchouli praline tonka beans vanilla;iris jasmine orange tree blossom;4.04;alnajm;3.07;347.0;1
+301;versace;oud noir;500;260.0;100.0;edp;men;woody;agarwood patchouli leatherwood;cardamom saffron olibanum;4.05;lady style;4.02;124.0;0
+302;roberto cavalli;cavalli;110;110.0;75.0;edp;women;arabian;benzoin tonka bean vanilla;african orange flower;5.0;hadayiq baris;3.08;122.0;0
+304;carolina herrera;prive;425;140.0;100.0;edt;men;aromatic;leather benzoin tonka;luxurious notes whiskey;4.03;perfume ms;3.08;66.0;0
+308;lattafa;velvet oud;85;56.75;100.0;edp;unisex;floral;sandalwood tonka bean amber patchouli musk oakmoss cedar tobacco;pine tree honey orris root jasmine caraway petitgrain lilyofthevalley rose brazilian rosewood incense;4.0;noon;4.02;98.1;0
+311;rochas;secret de rochas;145;67.0;100.0;edp;women;fruity;oakmoss sandalwood civet cedarwood musk orris tonka bean;osmanthus jasmine;3.0;kozma;4.04;337.0;1
+312;jennifer lopez;live luxe;168;95.0;100.0;edp;women;fresh;diamond musk soft musk;muguet petals exotic amethyst freesia;5.0;neo lek;3.05;88.0;0
+313;guerlain;mon florale;635;319.0;100.0;edp;women;floral;vanilla iris sandalwood;floral notes peony jasmine sambac ylangylang neroli peach lilyofthevalley;4.08;faces;3.09;61.0;0
+314;gucci;guilty intense;330;224.0;90.0;edt;men;floral;patchouli virginia cedar amber;african orange flower neroli;4.04;flower;3.09;33.0;0
+315;prada;milano infusion diris;500;338.0;100.0;edp;women;woody;incense benzoin;iris cedar vetiver;5.0;shopping life;4.02;20.0;0
+316;michael kors;kors;419;273.0;100.0;edp;women;floral;musk cashmere wood vetiver;tuberose iris peony orris root arum lily;5.0;beautiful live;4.02;7.0;0
+318;ajmal;teenz;134;74.85;50.0;edp;women;floral;floral fruity musky;fruity musky;4.05;noon;4.02;98.1;0
+319;ted lapidus;creation;162;162.0;100.0;edt;women;fruity;amber musk sandalwood veti;gardenia jasmine tuberose daffodil rose ylangylang;4.03;kaya;4.03;4.0;0
+320;bvlgari;goldea;615;200.0;90.0;edp;women;arabian;muskamberpatchoulipapyrus;ylangylang jasmine musk;4.05;beuatyone;3.09;347.0;1
+321;revlon;charlie blue;44;34.0;100.0;edt;women;woody;mix sandalwood oakmoss;jasmine muguet rose ylangylang;4.02;attractive perfume;3.05;244.0;0
+324;gucci;premiere;570;292.95;75.0;edp;women;floral;patchouli sandalwood;orange blossom musk;2.0;amlaq;3.09;135.0;0
+325;chanel;allure homme sport edt;800;423.0;100.0;edp;men;citrus;tonka bean atlas cedar vetiver white musk pepper;cedarnerolipepper;5.0;hadayiq baris;3.08;122.0;0
+326;bvlgari;aqva marine pour homme;331;163.95;100.0;edt;men;citrus;virginia cedar amber;seaweed rosemary water notes;4.08;hadayiq baris;3.08;122.0;0
+327;versace;dylan blue;77;38.0;5.0;edt;men;arabian;musk tonka bean incense saffron;violet leaves papyrus wood patchouli black pepper ambergris;4.02;neo lek;3.05;88.0;0
+328;jacques bogart;silver scent;140;55.0;100.0;edt;men;arabian;vetiver litchi tonka bean teak wood;cardamom rosemary nutmeg lavender coriander geranium;4.05;lady style;3.06;88.0;0
+331;bvlgari;omnia crystalline;504;279.0;65.0;edt;women;woody;white sandalwood benzoin siam musks;lotus flower orris concrete heliotrope;5.0;kaya;4.03;4.0;0
+332;lancome;idle ed;0,649305556;0.649305556;2.0;edt;women;floral;vanilla amber musk patchouli;jasmine geranium neroli ylangylang;5.0;princess beauty;3.08;467.0;1
+333;ard al zaafaran;oud sharqia;65;18.04;80.0;edp;unisex;arabian;sweet wood;citric;4.04;kingperfume;4.02;450.0;1
+336;calvin klein;reveal;427;169.0;100.0;edp;women;floral;vetiver sandalwood cashmere musk;powdery iris ambergris;4.04;faces;3.06;61.0;0
+338;lanvin;lanvin;139;113.0;100.0;edt;men;woody;sandalwood amber musk vanilla;pepper mint sage cardamom;5.0;chansles;3.09;33.0;0
+340;britney spears;fantasy;314;99.0;100.0;edp;women;floral;creamy musk orris root sensual woods;cupcake jasmine white chocolate orchid;4.05;noon;4.02;98.1;0
+341;elie saab;royal;711;239.75;90.0;edp;women;floral;indonesian patchouli essence indian sandalwood amber vanilla;turkish rose absolute bulgarian rose absolute lebanese neroli;5.0;noon;4.02;98.1;0
+345;hugo boss;hugo;395;115.0;125.0;edt;men;aromatic;cedar wood fir patchouli;carnation geranium jasmine sage;4.02;grass gulf;3.07;135.0;0
+346;calvin klein;euphoria intense;99.95;99.95;100.0;edt;men;spicy;amber patchouli agarwood myrrh labdanun;black basil sage cedar vetiver;5.0;hadayiq baris;3.08;122.0;0
+347;montblanc;legend spirit;342;140.0;100.0;edt;men;citrus;white musk white woods cashmere wood oakmoss;water notes lavender cardamom;4.07;hadayiq baris;3.08;122.0;0
+348;parfums de marly;pegasus;914;245.0;125.0;edt;men;citrus;ambergris musk;iris orange blossom;4.05;hadayiq baris;3.08;122.0;0
+350;trussardi;uomo;260;143.75;100.0;edt;men;floral;patchoulioak mossleather;geraniumvioletclary sage;4.01;parvant store;3.08;76.0;0
+351;loewe;esencia pour homme;514;177.0;150.0;edt;men;woody;tonka bean leather sandalwood fir amber patchouli musk oakmoss vetiver cedar styrax;clary sage nutmeg basil jasmine neroli lilyofthevalley rose pine tree needles geranium black currant;5.0;pinch perfum;4.02;32.0;0
+352;calvin klein;escape;184;94.95;100.0;edp;women;oriental;vanilla musk cedar sandalwood oakmoss amber vetiver;carnation rose peach lily valley jasmine cloves;5.0;noon;4.02;98.1;0
+354;fendi;furiosa;207;101.85;50.0;edp;women;floral;amber incense guaiac wood;jasmine violaciocca flower gardenia;4.06;noon;4.02;98.1;0
+357;miu miu;miu miu;515;249.95;100.0;edp;women;floral;akigalawood;green notes jasmine rose;5.0;noon;4.02;98.1;0
+358;givenchy;linterdit;446;228.0;50.0;edp;women;floral;vetiver patchouli ambroxan vanilla;orange blossom jasmine tuberose;5.0;brand land;43.0;4.0;0
+360;estee lauder;white linen;214;214.0;60.0;edp;women;arabian;vetiver sandalwood amber benzoin tonka bean honey oakmoss;carnation iris jasmine hyacinth ylangylang rose lilyofthevalley violet lilac orchid orris;5.0;precious store;4.01;319.0;1
+361;calvin klein;ck one;220;105.0;200.0;edt;unisex;citrus;sandalwood amber musk cedar oakmoss;nutmeg violet orris root jasmine lily valley rose;3.03;amlaq;3.09;135.0;0
+362;paco rabanne;ultraviolet;281;148.65;80.0;edp;women;floral;madagascar vanilla absolute ambergris;chinese osmanthus indian sambac jasmine;4.08;amlaq;3.09;135.0;0
+364;burberry;brit sheer;232;123.95;100.0;edt;women;fruity;white musk blond wood;pink peony peach blossom nashi floral accent;4.08;noon;4.02;98.1;0
+367;dorall collection;eternally hot;29;8.0;100.0;edt;women;woody;vanilla musk;gardenia jasmine;4.05;bag;4.02;14.1;0
+368;boucheron;place vendome;187;187.0;100.0;edp;women;floral;cedar white musk;iris rose jasmine;4.05;beauty;4.01;538.0;1
+370;chanel;gabrielle;1126;459.0;100.0;edp;women;floral;sandalwood musk;tuberose ylangylang jasmine orange blossom;3.07;alnajm;3.07;347.0;0
+371;hugo boss;vie;185;125.0;75.0;edp;women;floral;cedar woody notes;pink freesia jasmine rose;5.0;rose gallary;4.02;347.0;1
+372;roberto cavalli;paradisio azzuro;499;168.0;75.0;edp;women;floral;amberwood cashmere wood cypress sandalwood vanilla;apple jasmine peach rose tuberose water notes;4.08;amlaq;3.09;135.0;0
+373;dolce gabbana;one;441;130.95;100.0;edt;men;spicy;amber moss musk vanilla vetiver;genisteae jasmine lily lily valley orange tree blossom ylangylang;4.05;perfume ms;3.06;111.0;0
+374;bentley;momentum intense;226;144.0;100.0;edp;men;woody;amber wood sandalwood white musk;geranium tonka bean marine ambergris;5.0;moon light;3.09;61.0;0
+375;guerlain;mon bloom rose;586;272.0;100.0;edt;women;floral;neroli rose;sambac jasmine;4.0;faces;3.09;61.0;0
+376;korloff;white;562;116.0;88.0;edt;men;citrus;cashmeran virginia cedar musk tonka bean;lavender african orange flower clary sage;5.0;noon;4.02;98.1;0
+377;tesori doriente;orchidea della cina;60;38.95;100.0;edt;women;floral;myrrhpralinemuskvanillasandalwood;orange blossomtiare flowerjasmineorchid;4.03;noon;4.02;98.1;0
+379;trussardi;uomo;230;138.85;100.0;edt;men;spicy;leather moss patchouli;clary sage violet;5.0;noon genuine product;4.02;98.1;0
+380;dorall collection;dc marine noir;29;9.07;100.0;edt;men;floral;incense amber cedar vetiver patchouli musk;water sage rosemary;3.04;bag;3.07;14.1;0
+381;burberry;body;283;142.0;85.0;edp;women;woody;cashmere wood musk amber vanille;iris rose sandalwood;5.0;kingperfume;4.02;450.0;1
+382;gucci;bamboo;575;189.0;75.0;edp;women;floral;sandalwood;casablanca lily ylang ylang extracomoros;4.08;alnajm;3.07;347.0;1
+383;revlon;charli blue;44;44.0;100.0;edt;women;woody;sandalwood oakmoss musk;jasmine muguet rose ylangylang;5.0;attractive perfume;3.05;244.0;0
+385;bentley;absolute;200;154.0;100.0;edp;men;woody;moss agarwood amber atlas cedar;olibanum papyrus sandalwood;5.0;nawaemperfumes;3.09;69.0;0
+388;azzaro;chrome;269;135.0;100.0;edt;men;citrus;sandalwood tonka bean musk oakmoss cedar brazilian rosewood cardamom;rosemary pineapple neroli bergamot lemon;4.0;noon;4.02;98.1;0
+389;dunhill;custom;330;89.85;100.0;edt;men;floral;virginia cedar incense;pepper;4.03;noon;4.02;98.1;0
+390;dorall collection;super cobra;29;8.08;100.0;edt;women;floral;amber milk mousse australian sandalwood vanilla;orange blossom peach raspberry leaf;5.0;bag;3.07;14.1;0
+392;ralph lauren;polo blue;465;327.0;125.0;edp;men;woody;vetiver;blue orris accord;4.07;top langri;3.09;347.0;0
+393;narciso rodriguez;narciso rodriguez;442;108.75;100.0;edt;women;woody;vetiver vanilla;egyptian musk amber;4.07;creativity star;3.05;319.0;1
+394;mini collection;eaudemoiselle;16;16.0;25.0;edp;unisex;oriental;rose;cinnamon;4.09;original;3.09;235.0;1
+395;chopard;happy spirit;269;148.95;75.0;edp;women;fruity;amber musk cashmere wood;honeysuckle osmanthus;5.0;amlaq;3.09;135.0;0
+397;chloe;chloe;428;188.85;50.0;edp;women;floral;amber virginia cedar;rose lilyofthevalley caribbean magnolia;5.0;hadayiq baris;3.08;122.0;0
+398;ted lapidus;lapidus pour homme;122;66.0;100.0;edt;men;woody;sandalwood tonka bean amber patchouli musk oakmoss cedar tobacco;pine tree honey orris root jasmine caraway petitgrain lilyofthevalley rose brazilian rosewood incense;5.0;diorworld;3.05;75.0;0
+399;carolina herrera;bad boy;652;204.0;100.0;edt;men;spicy;tonka bean amberwood cacao;cedar sage;5.0;first fragrance;4.01;5.0;0
+404;dorall collection;simple;15;8.05;100.0;edt;women;floral;amber patchouli vanilla musk sandalwood;magnolia gardenia lily valley freesia jasmine;4.03;bag;3.07;14.1;0
+405;chopard;happy spirit;185;155.0;75.0;edp;women;fruity;amber musk cashmere wood;honeysuckle osmanthus;5.0;starperfume;3.09;537.0;1
+406;coach;new york;501;183.95;90.0;edp;women;fruity;suede musk sandalwood cashmeran;turkish rose gardenia cyclamen;4.07;starperfume;3.09;537.0;1
+408;cartier;declaration dun soir;365;213.0;100.0;edt;men;spicy;sandalwood;rose nutmeg;4.08;amlaq;3.09;135.0;0
+409;chanel;allure homme sport edt;800;423.0;100.0;edt;men;citrus;tonka bean atlas cedar vetiver white musk pepper;cedarnerolipepper;5.0;hadayiq baris;3.08;122.0;0
+410;davidoff;leather blend;420;224.85;100.0;edp;unisex;spicy;leatherpapyrus;rose amber;5.0;;3.05;75.0;0
+411;al fakhr;shiyoukh al oud;08.09;8.09;100.0;edp;unisex;woody musky;sandalwood cedarwood;black pepper cardamom;4.05;bismat eatar;3.07;66.0;0
+415;dorall collection;courageous;22;0.440972222;100.0;edt;women;floral;orris root musk vanilla;roses iris;4.07;bag;3.07;14.1;0
+419;lacoste;l rouge;113;113.0;100.0;edt;men;spicy;acacia wood;rooibos tea extract red bush tea;4.0;hadayiq baris;3.08;122.0;0
+421;franck olivier;oud vanille;167;90.0;100.0;edp;men;arabian;woody notes spices musk vanilla;rose violet jasmine patchouli incense;5.0;nawaemperfumes;3.09;69.0;0
+422;burberry;beat;280;150.0;75.0;edp;women;floral;white musk vetiver cedar wood;ceylon tea iris bluebell;4.03;faces;3.07;61.0;0
+423;ajmal;sacrifice;153;70.0;50.0;edp;women;floral;woody oriental musky;floral musky;4.06;rayhanti;4.02;27.0;0
+424;givenchy;eau de moiselle;550;183.0;100.0;edt;women;floral;ambrette seeds tonka beans musk;rose ylang ylang;5.0;asrar aljamal;4.02;98.0;0
+426;dorall collection;dc;29;9.03;100.0;edt;men;floral;vetiver patchouli oakmoss musk sandalwood;galbanum rosemary jasmine coumarin;4.0;bag;4.02;14.1;0
+428;coach;new york platinum;11;7.09;2.0;edp;men;oriental;patchouli vanilla leather;aromatic accords;4.05;princess beauty;3.08;467.0;1
+429;carolina herrera;vip;363;160.0;100.0;edt;men;vanilla;king wood salty amber tonka beans;chilled vodka hot ginger slice apple;5.0;alnajm;3.07;347.0;1
+430;mercedesbenz;club black;295;185.0;100.0;edt;women;vanilla;ambroxan benzoin woodsy notes vanilla;jasmine incense;5.0;parvant store;3.08;76.0;0
+431;tommy hilfiger;tommy girl;380;122.95;100.0;edt;women;citrus;desert jasmin cherokee rose magnolia petals dakota lilies cedar sandalwood wild heather;grapefruit citrus orchards crisp green notes honeysuckle butterfly violets;4.04;parvant store;4.02;76.0;0
+432;guerlain;vetiver;426;174.0;100.0;edt;men;aromatic;vetiver oakmoss leather myrrh civet tonka bean amber;vetiver pepper carnation sage orris root sandalwood;5.0;nawaemperfumes;3.09;69.0;0
+434;shirley may;darknet pour homme;11.05;11.05;100.0;edt;men;woody;musk moss;anise cardamom cinnamon;3.0;beauty gallery;3.07;59.0;0
+435;paco rabanne;lady million;420;158.0;80.0;edp;women;floral;patchouli white honey amber;jasmine african orange flower gardenia;4.07;;4.02;7.0;0
+436;cartier;la panthere;695;235.85;75.0;edp;women;fruity;oakmoss musk patchouli leather;gardenia rose ylangylang orange blossom pear;4.07;noon;4.02;98.1;0
+437;davidoff;game;147;77.0;100.0;edt;men;woody;ebony wood;iris woody notes;5.0;cute shop;4.02;98.1;0
+438;paco rabanne;ultraviolet;353;165.0;100.0;edt;men;woody;indonesian patchouli oakmoss;tanzanian black pepper ambergris;4.04;starperfume;3.09;537.0;1
+439;shirley may;black car;21;0.440972222;100.0;edt;men;citrus;amber palisander rosewood;cedar spicy notes;4.05;beautify;3.06;528.0;1
+440;ard al zaafaran;oud sharqia;65;18.04;80.0;edp;unisex;arabian;sweet wood;citric;4.04;kingperfume;3.06;450.0;1
+441;guerlain;santal royal;768;406.0;125.0;edp;unisex;arabian;sandalwood leather note amber notes oud muscs note;peach rose cinnamon;5.0;top langri;3.07;347.0;0
+444;burberry;burberry;699;226.65;90.0;edp;women;floral;oined damascus centifolia rose;freesia flowers golden quince;5.0;amlaq;3.09;135.0;0
+446;lacoste;joy pink;427;113.95;90.0;edt;women;floral;musk vanilla;jasmine carrot spicy coriander;4.04;kado store;4.03;23.0;0
+447;lalique;leparfum;143;143.0;100.0;edp;women;oriental;sandalwood tonka bean patchouli vanilla;jasmine heliotrope;4.04;beautiful live;412.0;7.0;2
+448;gucci;memoire dune odeur edp uni;530;349.95;100.0;edp;unisex;fresh;sandalwood cedar vanilla;coral jasmine jasmine petals musks;5.0;noon;4.02;98.1;0
+450;dorall collection;oud wood;19;9.09;100.0;pdt;unisex;citrus;cedar tobacco patchouli sandalwood musk;geranium marigold rose bay leaves;4.03;bag;4.02;14.1;0
+451;hugo boss;scent;426;135.0;100.0;edt;men;spicy;leather woody notes;lavender maninka;3.06;perfume ms;3.07;537.0;1
+453;carolina herrera;sexy;420;151.0;100.0;edp;women;floral;cotton candymusksandalwoodvanilla;gardeniageranium;4.07;alnajm;3.07;347.0;1
+456;parfums gres;cabotine de gres;110;78.0;100.0;edp;women;floral;patchouli sandalwood musk;ginger lily tubereuse wild hyacinth;4.05;nawaemperfumes;3.09;69.0;0
+457;lancome;magie noire leau;401;401.0;75.0;edt;women;woody;amber sandalwood patchouli;jasmine ylangylang;4.06;banorama;3.05;63.0;0
+458;loewe;esencia pour homme;514;177.0;150.0;edt;men;woody;tonka bean leather sandalwood fir amber patchouli musk oakmoss vetiver cedar styrax;clary sage nutmeg basil jasmine neroli lilyofthevalley rose pine tree needles geranium black currant;5.0;pinch perfum;3.05;32.0;0
+459;calvin klein;ck;125;110.0;200.0;edt;unisex;spicy;sandalwood amber cedar oakmoss;green grass magnolia orchid freesia peach jasmine;5.0;abu al tayyeb perfumes;4.02;7.0;0
+460;hugo boss;boss;375;105.0;100.0;edt;men;woody;sandalwood vetiver cedarwood vanilla;geranium cinnamon cloves;4.07;acacia rose;4.08;77.0;0
+463;coach;new york coach dreams;310;201.75;90.0;edp;women;floral;joshua tree ambroxan;gardenias cactus flowers;4.0;noon;4.02;98.1;0
+467;lanvin paris;rumeur rose;126;106.85;100.0;edp;women;floral;patchouli amber musk;lily valley jasmine false jasmine rose magnolia honeysuckle;4.03;goldiaa;4.01;135.0;0
+468;roberto cavalli;cavali;499;115.0;75.0;edp;men;arabian;roasted tonka grain laos benzoin;orange blossom extract mirabelle plum;4.03;hadayiq baris;3.08;122.0;0
+470;caron;de caron;388;178.0;200.0;edt;men;fresh;musk;vanille;4.03;;3.07;59.0;0
+471;paris hilton;heiress;224;151.0;100.0;edp;women;fruity;violet leaf tahiti tonka light wood;jasmine tiare lily delightfully sweet ylangylang honeysuckle grenadine;4.04;abu al tayyeb perfumes;3.06;30.0;0
+472;carolina herrera;vip;445;190.0;80.0;edp;women;arabian;vanille tonka bean;musk gardenia;4.04;number one;4.02;98.0;0
+475;lacoste;l blanc;108;89.95;100.0;edt;men;woody;virginia cedar leather suede vetiver;ylang;5.0;noon;4.02;98.1;0
+476;burberry;burberry;494;179.0;50.0;edp;women;floral;amber patchouli;peach rose;5.0;noon;4.02;98.1;0
+477;dorall collection;love like crazy;25;7.25;100.0;edt;women;woody;patchouli musk vanilla amber;peony jasmine lily;4.05;bag;3.07;14.1;0
+478;trussardi;extreme;462;127.95;100.0;edt;men;woody;vetiver patchouli;fruitygourmand dark plum powdery iris;5.0;perfumesshop;3.09;537.0;1
+480;ming na;beibei bear blue par;20.09;20.09;50.0;edp;kids unisex;floral;patchouli earthy dry amber;sandalwood peppery lavender;4.09;royal scent;3.05;244.0;1
+481;roberto cavalli;paradiso;500;165.0;75.0;edp;women;woody;pine tree cypress laurels;jasmine;4.06;hadayiq baris;3.08;122.0;0
+482;lalique;encre noire;165;140.0;100.0;edt;men;woody;sandalwood;lemongrass;4.04;kikup;3.09;23.0;0
+483;azzaro;visit;156;106.0;100.0;edt;men;woody;gray amber musk;lebanese cedar guaiac tree incense;4.03;beautiful live;412.0;7.0;2
+485;trussardi;name;308;228.0;50.0;edp;women;floral;dry amber vanilla;lilac musk;4.06;noon;4.02;98.1;0
+489;hugo boss;bottled intense;426;157.85;100.0;edp;men;spicy;sandalwood cedar vetiver vanilla;geranium cloves cinnamon;4.05;amlaq;3.09;135.0;0
+491;estee lauder;private collection;505;197.0;50.0;edp;women;floral;sandalwood heliotrope amber musk;bulgarian rose chrysanthemum reseda ylangylang coriander;5.0;royal scent;3.09;69.0;0
+493;burberry;beat;280;150.0;75.0;edp;women;floral;white musk vetiver cedar wood;ceylon tea iris bluebell;4.03;faces;4.02;61.0;0
+494;lattafa;rouat al oud;99;45.0;100.0;edp;women;spicy;cedarwood patchouli vetiver musk;cardamom spicy notes;5.0;rihanna world store;4.04;8.0;0
+495;yves saint laurent;la nuit de lhomme;536;314.0;100.0;edt;men;woody;vetiver caraway;bergamot virginia cedar lavender;5.0;first fragrance;412.0;7.0;2
+496;ajmal;blu;177;139.95;90.0;edp;men;fresh;sandalwood musk amber;lotus jasmine;4.0;noon;4.02;98.1;0
+497;mont blanc;legend;220;141.95;100.0;edt;men;spicy;sandalwood tonka evernyl;dried fruit oakmoss fused geranium rose apple;5.0;noon;4.02;98.1;0
+498;hermes;terre hermes;474;173.0;100.0;edt;men;citrus;woody notes patchouli cedar;geranium;3.09;noon;4.02;98.1;0
+500;roberto cavalli;dupont;360;120.0;75.0;edp;women;arabian;benzoin tonka bean vanille;african orange flower;4.06;starperfume;3.09;537.0;1
+501;burberry;burberry body;13;8.05;2.0;edt;women;woody;absolute vanilla orchid tahitensis praline patchouli papyrus;rose damascena essence incense;4.0;princess beauty;3.08;467.0;1
+502;bentley;intense;169;128.0;100.0;edp;men;spicy;leather benzoin incense cedar patchouli;clary sage african geranium cinnamon rum wood;4.03;parisian store;3.09;425.0;1
+503;burberry;burberry;700;197.95;90.0;edp;women;floral oriental;damascus centifolia rose;geranium freesia flowers golden quince;4.07;grass gulf;3.09;135.0;0
+505;lalique;encre noire;485;136.95;100.0;edt;men;woody;cashmere wood musk;haitian vetiver;4.05;parvant store;3.07;76.0;0
+506;yves saint laurent;rive gauche homme;560;560.0;80.0;edt;men;aromatic;gaiac wood;patchouli vetiver;4.07;abu al tayyeb perfumes;3.05;63.0;0
+507;lanvin paris;modern princess;356;174.0;90.0;edp;women;floral;white musk white woods vanilla orchid;jasmine freesia;5.0;ryhana perfume;4.02;25.0;0
+508;giorgio armani;eau pour homme reno;361;186.0;50.0;edt;men;citrus;patchouli oakmoss sandalwood;cloves lily nutmeg;4.07;noon;4.02;98.1;0
+509;nikos;sculpture homme;220;52.95;100.0;edt;men;floral;amber benzoin cedar tonka beans;geranium jasmine lily valley rose;4.05;noon;4.02;98.1;0
+510;davidoff;brilliant game;215;93.75;100.0;edt;men;arabian;sensual addiction tonka bean note;charismatic virility cedarwood;4.02;noon;4.02;98.1;0
+512;narciso rodriguez;narciso rodriguez;442;108.75;100.0;edt;women;woody;vetiver vanilla;egyptian musk amber;4.07;creativity star;3.07;319.0;1
+513;parfums gres;cabotine;135;75.0;100.0;edt;women;floral;cedarwood vanilla tonka bean cybet musk amber;rose tuberose ylangylang ginger lily hyacinth heliotrope freesia violet iris;4.08;amlaq;3.09;135.0;0
+514;elizabeth arden;green tea;77;72.95;100.0;edp;women;citrus;caraway amber musk green tea jasmine cloves oakmoss celery seeds;carnation muskjasmine oakmoss amber white fennel;5.0;golden perfumes;3.06;111.0;0
+515;van cleef arpels;ambre imperial;730;479.0;75.0;edp;unisex;woody;woodsy notes;tonka bean vanilla amber benzoin;5.0;parfum;3.08;76.0;0
+517;jcasanova;pandora;79.95;79.95;50.0;edp;women;fruity;cedar moss musk amber sandalwood;lilyofthevalley rose jasmine narcissus orchid;5.0;vipparfume;3.05;75.0;0
+518;hugo boss;femme;316;139.95;75.0;edp;women;floral;apricot lemon wood;jasmine fleur de lys bulgarian rose;4.08;grass gulf;3.09;69.0;0
+519;calvin klein;secret obsession;202;163.95;100.0;edp;women;woody;burnt amber cashere woods vanilla sandalwood;jasmine orange flower tuberose;5.0;chansles;3.09;33.0;0
+525;penhaligons;portraits george;2350;886.0;75.0;edp;men;woody;tonka beans;shaving soap;5.0;beuatyone;4.02;1.3;0
+526;burberry;london;241;140.0;50.0;edp;women;floral;sandalwood musk patchouli;tiare flower jasmine peony hint fresh clementine zest;4.06;starperfume;3.09;537.0;1
+527;hugo boss;bottled unlimited;373;126.0;100.0;edt;men;vanilla;sandalwood musk;pineapple rose;4.04;alnajm;3.07;347.0;1
+528;chanel;bleu de chanel;920;245.0;100.0;edt;men;citrus;labdanum sandalwod patchouli vetiver incense cedar white musk;ginger iso e super nutmeg jasmine;4.08;smart store;3.07;319.0;1
+531;joop;homme;170;60.0;125.0;edt;men;citrus;vanilla tonka bean patchouli sandalwood;jasmine lili valley heliotrope;3.05;hadayiq baris;3.08;122.0;0
+532;narciso rodriguez;narciso rodriguez;436;207.0;50.0;edp;women;floral;patchoulisandalwood;ambermusk;5.0;ahmed mohamed abbas abbas trading est;4.02;98.0;0
+533;dolce gabbana;limperatrice;640;157.65;100.0;edt;women;floral;musk sandalwood lemon tree;watermelon cyclamen jasmine;4.0;noon;4.02;98.1;0
+534;prada;amber intense;324;321.95;100.0;edp;men;spicy;creamy amber;vanilla;4.04;noon;4.02;98.1;0
+536;azzaro;visit;310;110.0;100.0;edt;men;woody;amber musk;labdanum guaiac wood incense cedar;1.0;starperfume;3.09;537.0;1
+537;rasasi;blue lady;59;27.0;40.0;edp;women;floral;sandalwood vetiver vanilla amber musk;peach plum narcissus jasmine;4.05;kathya;3.08;116.0;0
+538;chanel;bleu de chanel;930;374.0;100.0;edp;men;woody;incense amber cedar sandalwood patchouli labdanum amber wood;ginger jasmine nutmeg melon;4.07;perfume ms;3.09;66.0;0
+539;mini collection;sy eau de par;16.09;16.09;25.0;edp;women;jasmine;balsamic;bakhoor;5.0;warddah;3.07;56.0;0
+541;mancera;musky garden;396;297.65;120.0;edp;women;floral;white musk blackberry raspberry amber;iris bulgarian rose indian jasmine patchouli leaf;5.0;tiffany;4.03;22.0;0
+542;lacoste;eau de lacoste;420;139.0;90.0;edp;women;floral;sandalwood vetiver vanilla peru balsam;pineapple flower sambac jasmine rose orange flower;4.06;beautiful live;3.08;7.0;0
+545;jaguar;classic;120;63.75;100.0;edt;men;arabian;sandalwood benzoin white musk;ginger orange blossom lotus;4.04;noon;4.02;98.1;0
+546;davidoff;cool water;150;71.75;75.0;edt;men;aromatic;musk oakmoss cedar amber;sandalwood geranium neroli jasmine;4.01;noon;4.02;98.1;0
+549;armaf;club de nuit intense;210;190.0;200.0;edp;men;jasmine;vanilla ambergris musk patchouli;rose jasmine birch;5.0;attractive perfume;3.05;244.0;0
+550;genie;collection;36;14.04;25.0;edp;women;fruity;vegetal amber musk mahogany;magnolia lotus peony;4.0;moon perfume;3.07;199.0;1
+552;houbigant;quelques fleurs loriginal;599;285.0;100.0;edp;women;floral;amber civet honey lichen musk sandalwood tonka beans vanilla;carnation heliotrope iris root jasmine lilac lily valley orchid tuberose violet ylangylang;5.0;amlaq;3.09;135.0;0
+553;dolce gabbana;one royal night;630;290.75;100.0;edp;men;woody;sandalwood cedar amber labdanum;pear wood nutmeg;5.0;amlaq;3.09;135.0;0
+554;givenchy;xeryus rouge;259;199.0;100.0;edt;men;woody;leather amber musk oakmoss balsam fir vetiver incense cedar;cyclamen coriander carnation cypress sandalwood juniper berries cinnamon tarragon petitgrain geranium;4.04;brides palace;3.05;32.0;0
+555;ajmal;sacrifice;153;70.0;50.0;edp;women;floral;woody oriental musky;floral musky;4.06;rayhanti;3.05;27.0;0
+558;mancera;roses vanille;485;248.85;120.0;edp;women;vanilla;vanilla sugar white musk cedar;rose sugar;5.0;noon;4.02;98.1;0
+559;dorall collection;dc;29;9.03;100.0;edt;men;floral;vetiver patchouli oakmoss musk sandalwood;galbanum rosemary jasmine coumarin;4.0;bag;3.07;14.1;0
+560;coach;new york;05.06;5.06;2.0;edt;men;citrus;vetiver suede ambergris;cardamom coriander geranium;4.07;princess beauty;3.08;467.0;1
+561;giorgio armani;code;513;265.0;75.0;edt;men;citrus;tobacco leather tonka bean;olive flower spiced star anise;5.0;goldiaa;4.01;135.0;0
+563;loewe;esencia;529;200.0;100.0;edt;men;woody;cedar musk sandalwood;cardamom pepper;4.05;parfumestor;4.03;118.0;0
+564;parfums de marly;delina exclusive;1696;785.0;75.0;edp;women;woody;woody amber vanilla;turkish rose incense burning oud;4.0;golden perfumes;3.06;111.0;0
+566;jaguar;classic blue;290;67.0;100.0;edt;men;spicy;sandalwood benzoin white musk;ginger orange blossom lotus;4.07;beauty gallery;4.02;59.0;0
+567;nicolai;patchouli intense;1714;653.65;100.0;edp;unisex;floral;sandalwood amber vanilla;ceylon cinnamon rose patchouli;5.0;noon;4.02;98.4;0
+570;aramis;herbal spray;179;100.0;100.0;edc;men;woody;sandalwood amber patchouli civet oakmoss vetiver;carnation orris root jasmine lilyofthevalley rose geranium;4.0;starperfume;3.09;537.0;1
+575;ajmal;wisal;58;58.0;50.0;edp;women;floral;rose sensual musk;sandalwood;5.0;alkhalijiah perfume;3.05;75.0;0
+577;stdupont;passenger;294;99.0;100.0;edt;men;spicy;paraguayan lignum vitae indonesian patchouli laotian benzoin copper accords;indian ginger guatemalan cardamom mauritanian red pepper lavender;5.0;london store;3.07;23.0;0
+579;hugo boss;hugo;395;99.0;125.0;edt;men;fresh;patchouli fir cedar;carnation sage geranium jasmine;4.05;cute shop;4.02;98.0;0
+580;bvlgari;petits et mamans;254;193.95;100.0;edt;women;floral;iris vanilla white peach powdery notes;sunflower chamomile rose;4.08;noon;4.02;98.1;0
+581;dorall collection;eternally hot;29;8.0;100.0;edt;women;woody;vanilla musk;gardenia jasmine;4.05;bag;3.07;14.1;0
+582;dunhill;desire;111;54.95;30.0;edt;men;fresh;vanilla musk labdanum;rose teakwood patchouli;4.08;starperfume;3.09;537.0;1
+584;avon;always;84;84.0;50.0;edp;women;floral;cashmere woods;orange blossoms;5.0;neo lek;3.05;88.0;0
+586;guess;marciano;128;109.95;100.0;edp;women;floral;musk vanilla woody notes;peony jasmine honeysuckle;5.0;parvant store;3.08;76.0;0
+587;lalique;encre noire;485;134.95;100.0;edt;men;woody;cashmere wood musk;haiti vetiver bourbon vetiver;4.05;abu al tayyeb perfumes;4.02;59.0;0
+590;sedr alkhaleej perfumes;ever;34.85;34.85;100.0;edp;men;fresh;woody musk amber;praline cardamom cinnamon;4.0;noon;4.02;98.1;0
+591;givenchy;organza;550;251.65;100.0;edp;women;arabian;guaiac wood woodsy notes virginia cedar amber vanilla;peony walnut iris jasmine tuberose honeysuckle;4.08;noon genuine product;4.02;98.1;0
+592;roberto cavalli;uomo;452;126.0;100.0;edt;men;floral;cedar tonka bean patchouli;honey lavender;4.06;noon;4.02;98.1;0
+594;montblanc;mont blanc legend;220;140.0;100.0;edt;men;floral;vanilla amber;jasmine geranium neroli ylangylan;4.08;alnajm;3.07;347.0;1
+596;dunhill;desire extreme;230;114.75;100.0;edt;men;spicy;amber musk;evergreen cypress;4.09;amlaq;3.09;135.0;0
+601;coach;floral;337;165.75;90.0;edp;women;floral;patchouli woody notes musk;tea rose jasmine sambac gardenia;5.0;noon;4.02;98.1;0
+602;roberto cavalli;uomo;452;134.95;100.0;edt;men;floral;cedar patchouli tonka bean;honey lavender;4.06;noon genuine product;3.06;98.1;0
+603;diesel;plus plus feminine;99;41.0;75.0;edt;women;oriental;musk sandalwood virginia cedar amber nutmeg vanille orris root;jasmine coconut magnolia orchid lily cherry big strawberry red apple milk;4.04;kaya;4.03;4.0;0
+604;dorall collection;classic black;9;8.08;100.0;edt;men;fresh;chocolatecashmere wood patchouli tonka bean;basil verbena lavender;4.0;beauty;3.06;538.0;1
+605;calvin klein;beauty;380;115.0;100.0;edp;women;floral;vanilla musk sandalwood guaiac wood amber;cardamom pepper flowers;5.0;starperfume;3.09;537.0;1
+606;montblanc;emblem ed;22.04;22.04;5.0;edt;men;spicy;woodsy tonka bean;violet leaf cinnamon;4.08;starperfume;3.09;537.0;1
+607;carolina herrera;sexy;420;151.0;100.0;edp;women;floral;cotton candymusksandalwoodvanilla;gardeniageranium;4.07;alnajm;3.07;347.0;1
+608;burberry;brit rhythm;360;119.95;90.0;edt;men;woody;cedarwood tonka bean;black leather patchouli styrax;4.0;hadayiq baris;3.08;122.0;0
+609;lanvin;oxygene;206;116.0;75.0;edp;women;floral;white musk sandalwood;rose milk gardenia;4.03;dior fragrances;3.09;69.0;0
+610;hugo boss;boss;375;105.0;100.0;edt;men;woody;sandalwood vetiver cedarwood vanilla;geranium cinnamon cloves;4.07;acacia rose;4.04;77.0;0
+611;sedr alkhaleej perfumes;love touch body sp;12.09;12.09;125.0;edt;women;floral;leathermusk;tiare flowerrose;5.0;noon;4.02;98.1;0
+613;genie;london burberry;18;16.0;25.0;edp;women;floral;wood musk;jasmine tiare flower soft peony;4.09;parisian store;3.09;425.0;1
+614;carolina herrera;vip;363;160.0;100.0;edt;men;vanilla;king wood salty amber tonka beans;chilled vodka hot ginger slice apple;5.0;alnajm;3.07;347.0;1
+616;emper;tool box;88;54.95;100.0;edt;men;oriental;geranium amber white musks;patchouli vetiver lavender;5.0;golen dream;3.08;88.0;0
+617;shiseido;zen;597;260.0;100.0;edp;women;floral;patchouli cedarwood skin musk white musk marine amber incense;freesia gardenia red apple violet lily valley hyacinth chinese rose lotus flower;5.0;faces;3.09;61.0;0
+618;juicy couture;viva la juicy;355;144.0;100.0;edp;women;floral;amber caramel praline sandalwood vanilla;honeysuckle gardenia jasmine;4.07;art ti ci;3.09;41.0;0
+622;montblanc;lady emblem;410;155.0;75.0;edp;women;floral;musk raspberry;sandalwood patchouli rosewood;5.0;noon;4.02;98.1;0
+624;tom ford;black orchid;495;211.0;50.0;edp;women;spicy;incenselotuspatchoulisandalwoodvanillavetiver;black orchidfruity notestuberose;5.0;number one;3.07;347.0;1
+625;dolce gabbana;pour femme;356;165.0;100.0;edp;women;floral;marshmallow sandalwood vanilla;jasmine orange blossom;5.0;hadayiq baris;3.08;122.0;0
+627;hugo boss;boss bottled man today;487;177.0;100.0;edt;men;woody;vanilla sandalwood vetiver cedarwood olivewood amberlikenotes musklikenotes;geranium cinnamon cloves;4.01;acacia rose;4.04;5.0;0
+630;calvin klein;beauty;145;110.0;100.0;edp;women;floral;virginia cedar;jasmine;5.0;starperfume;4.02;537.0;1
+634;ajmal;wisal;79;60.0;50.0;edp;unisex;floral;floral musky;spicy floral;5.0;alkhalijiah perfume;3.05;88.0;0
+635;carolina herrera;wild party;232.95;232.95;80.0;edp;women;floral;musk woody accord;orange blossom sun rose orchid;4.05;number one;3.08;66.0;0
+636;estee lauder;modern muse chic;472;275.0;100.0;edp;women;woody;cashmere wood agarwood oud labdanum patchouli ebony tree musk madagascar vanilla suede;jasmine sambac tuberose lily;4.05;faces;3.09;61.0;0
+638;dolce gabbana;k;338;269.0;100.0;edt;men;woody;blood orange pressed sicilian lemon juniper berries;pimento clary sage geranium lavandin;4.01;grass gulf;3.07;98.0;0
+639;mancera;roses vanille;390;229.0;120.0;edp;women;oriental;sugar vanilla cedar white musk;rose sugar;4.0;noon;4.02;98.1;0
+640;dorall collection;lady dorall;0,635416667;0.635416667;100.0;edt;women;spicy;apricot amber lemon tree;lily jasmine rose;4.0;princess beauty;3.08;467.0;1
+641;aramis;brown;161;104.0;110.0;edt;men;floral;leather oakmoss amber;pelargonium patchouli vetiver sandalwood;4.0;top langri;3.07;347.0;1
+642;mancera;red;711;365.0;120.0;edp;unisex;woody spicy;tobacco amber guaiac wood sandalwood haitian vetiver madagascar vanilla white musk;patchouli jasmine;4.09;top langri;3.07;347.0;0
+646;burberry;burberry;700;197.95;90.0;edp;women;floral oriental;damascus centifolia rose;geranium freesia flowers golden quince;4.07;grass gulf;3.07;135.0;0
+647;joop;homme;223;55.0;125.0;edt;men;citrus;vanilla tonka bean patchouli sandalwood;jasmine lily valley heliotrope cinnamon;4.04;hadayiq baris;3.08;122.0;0
+651;carolina herrera;vip rose;445;135.0;80.0;edp;women;floral;woody notes white musk amber;peach blossom;5.0;;3.08;66.0;0
+652;caron;pour un homme de caron;404;176.0;200.0;edt;men;vanilla;musk;vanilla;3.0;diorworld;3.05;63.0;0
+654;rasasi;oud almubakhar;40;30.85;100.0;edp;men;arabian;sandalwood tonka bean musk patchouli;turkish rose violet geranium;4.0;noon;4.02;98.1;0
+655;gucci;rush;489;219.85;75.0;edt;women;floral;vetiver patchouli vanilla;jasmine damask rose coriander;5.0;noon;4.02;98.1;0
+657;burberry;touch;314;154.95;100.0;edp;women;floral;almondscedaroakmosstonka beansvanilla;jasminelilylily valleypeachpeonyraspberrytuberose;4.0;noon original genuine product;4.02;98.1;0
+659;jcasanova;plaisir;145;75.0;100.0;edp;women;fresh;sandalwood musk vanilla orchid cedar;clove damascus plum pear ylang ylang;4.05;tiffany;3.08;75.0;0
+663;mont blanc;legend;220;141.95;100.0;edt;men;spicy;sandalwood tonka evernyl;dried fruit oakmoss fused geranium rose apple;5.0;noon;4.02;98.1;0
+664;calvin klein;ck one;448;107.0;200.0;edt;men;citrus;sandalwood amber musk cedar oak moss;nutmeg violet orris root jasmine lilyofthevalley rose;4.05;amlaq;3.09;135.0;0
+665;la perla;divina;107;62.0;50.0;edt;women;fruity;musk amber vanilla woody notes;jasmine african orange pink;4.05;golden;3.05;63.0;0
+667;dorall collection;green secret;27;9.05;100.0;edt;men;fruity;moss sandalwood coumarin;ylang geranium jasmine;2.0;bag;3.07;14.1;0
+668;dorall collection;lancy;27;0.517361111;100.0;edt;women;spicy;tonka praline patchouli vanilla;iris orange blossom jasmine;4.05;beauty;3.05;538.0;1
+669;lancome;miracle;426;200.0;100.0;edp;women;arabian;amber musk jasmine;magnolia ginger mandarin orange pepper jasmine;4.05;beuatyone;4.04;537.0;1
+670;armani;code absolu ed;08.05;8.05;2.0;edp;men;floral;vanilla amber musk patchouli;jasmine geranium neroli ylangylang;5.0;princess beauty;3.08;467.0;1
+671;davidoff;cool water;360;76.95;125.0;edt;men;woody;amber cedar musk oakmoss tobacco;geranium jasmine neroli sandalwood;4.05;hadayiq baris;3.08;122.0;0
+672;lacoste;l blanc;244;88.0;100.0;edt;men;woody;leather suede cedar;mexican tuberose ylangylang;3.07;hadayiq baris;3.08;122.0;0
+676;dorall collection;pink hearts;29;8.15;100.0;edt;women;floral;caramel musk tonka sandalwood vanilla;red berries lily valley licorice cotton candy strawberry;4.04;bag;3.09;14.1;0
+677;hugo boss;natural spray;595;140.0;75.0;edp;women;oriental;apricot amber lemon tree;bulgarian rose jasmine lily;4.0;parisian store;3.09;425.0;1
+681;calvin klein;sheer beauty essence;415;167.95;100.0;edt;women;floral;musk vanilla cedar;lilac magnolia turkish rose peony;4.05;noon genuine product;4.02;98.1;0
+682;davidoff;game;215;83.95;100.0;edt;men;woody;ebony wood;iris woody notes;4.09;noon;4.02;98.1;0
+683;dorall collection;oud wood;19;9.09;100.0;pdt;unisex;citrus;cedar tobacco patchouli sandalwood musk;geranium marigold rose bay leaves;4.03;bag;3.07;14.1;0
+684;mancera;rose greedy;446;269.0;120.0;edp;unisex;rose floral;white musk amber vanilla sugar;rose jasmine flowers;4.05;amlaq;3.09;135.0;0
+686;lacoste;challenge;300;144.95;90.0;edt;men;citrus;ginger jasmine juniper nutmeg pepper violet whisky;amber musk wood;4.08;beautiful live;3.09;7.0;0
+689;genie;collection;43;24.85;25.0;edp;women;floral;liquid amber black violet cream mahogany;lotus blossom champaca flower black orchid;4.02;parisian store;3.09;425.0;1
+692;jcasanova;paris vivaldi;90;90.0;100.0;edp;women;fruity;cedar moss musk amber sandalwood;lilyofthevalley rose jasmine narcissus orchid;3.0;grass gulf;454.0;9.0;2
+693;calvin klein;beauty;380;118.0;100.0;edp;women;floral;virginia cedar;jasmine;4.06;amlaq;3.09;135.0;0
+694;lacoste;essential;336;148.65;125.0;edt;men;citrus;sandalwood patchouli;pepper rose;3.03;amlaq;3.09;135.0;0
+696;rasasi;shuhrah;77.95;77.95;90.0;edp;men;floral;amber musk oakmoss agarwood leathery;rose sandalwood cedarjasmine;5.0;vipparfume;3.07;23.0;0
+697;cacharel;yes ed;15;8.09;2.0;edt;women;jasmine;milk sandalwood cardamom;ginger flower jasmine gardenia;1.0;royal scent;3.05;5.0;0
+699;chanel;bleu de chanel;920;245.0;100.0;edt;men;citrus;labdanum sandalwod patchouli vetiver incense cedar white musk;ginger iso e super nutmeg jasmine;4.08;smart store;4.01;319.0;1
+700;dolce gabbana;pour femme;566;195.0;100.0;edp;women;floral;guimave vanilla heliotrope sandalwood;jasmine orange blossom;5.0;parfumestor;3.09;66.0;0
+701;arabian oud;sheikh al shuyukh;54;54.0;100.0;edp;men;woody;vetiver patchouli;lavender sage rosemary;5.0;vipparfume;445.0;8.0;2
+703;issey miyake;leau dissey pour homme;220;155.75;125.0;edt;men;floral;coriander;nutmeg;5.0;noon;4.02;98.1;0
+704;chanel;bleu de chanel;930;374.0;100.0;edp;men;woody;incense amber cedar sandalwood patchouli labdanum amber wood;ginger jasmine nutmeg melon;4.07;perfume ms;4.01;66.0;0
+705;lattafa;musk mood;48;48.0;100.0;edp;unisex;woody;musk incense amber resins woody note;patchouli caramel agarwood oud floral notes;5.0;rihanna world store;445.0;8.0;2
+706;yves saint laurent;black opium;620;364.65;90.0;edp;women;vanilla;musk white wood;jasmine tea orrange blossom coffee;4.08;noon;4.02;98.1;0
+708;elizabeth arden;red door;128.95;128.95;100.0;edt;women;floral;honey sandalwood vetiver;orchid jasmine lilyofthe valley orange blossomwild violet freesia;5.0;golden perfumes;3.06;111.0;0
+709;guess;seductive;177;86.75;75.0;edt;women;spicy;vanille olibanum cashmere wood;jasmine african orange flower orris root;5.0;noon;4.02;98.1;0
+711;nina ricci;mademoiselle ricci;206;117.0;50.0;edp;women;floral;white wood musk amber cedar violet;nerium oleander rose hip laurels;4.05;amlaq;3.09;135.0;0
+712;jaguar;classic black;60;60.0;100.0;edt;men;aromatic;sandalwood oakmoss tonka beans virginia cedar vetiver musk;cardamom black tea leaves geranium nutmeg;4.03;perfumesaddresses;4.04;59.0;0
+715;diesel;plus plus masculine;50;30.0;75.0;edt;men;spicy;vetiver musk sandalwood patchouli oak moss nutmeg clove cinnamon tonka bean anise;jasmine birch sage cardamom coriander lilyofthevalley violet green notes;4.05;attractive perfume;3.08;244.0;1
+716;jaguar;classic blue;290;67.0;100.0;edt;men;spicy;sandalwood benzoin white musk;ginger orange blossom lotus;4.07;beauty gallery;4.03;59.0;0
+718;burberry;body tender;373;114.0;85.0;edt;women;floral;cashmeran amber musk;dewy english roses white jasmine sandalwood;5.0;number one;4.02;537.0;1
+719;calvin klein;eternity;463;95.0;100.0;edt;men;floral;sandalwood vetiver rosewood ambergris;jasmine geranium sage;4.05;hadayiq baris;3.08;122.0;0
+722;tommy hilfiger;tommy girl;380;122.95;100.0;edt;women;citrus;desert jasmin cherokee rose magnolia petals dakota lilies cedar sandalwood wild heather;grapefruit citrus orchards crisp green notes honeysuckle butterfly violets;4.04;parvant store;4.01;76.0;0
+723;rasasi;oud al misk;59;59.0;100.0;edp;women;oriental;cedar vetiver patchouli sandalwood ambergris musk;geranium jasmine;3.0;hawas;454.0;9.0;2
+724;alina corel;beach palm;24.95;24.95;100.0;edp;women;fresh;himalayan cedar warm woman skin accord sandal incense;heliotrope jasmine alliance hibiscus blossom bulgarian rose;2.03;noon;4.02;98.1;0
+726;rasasi;romance;79;37.0;45.0;edp;women;floral;powdery;fruity woody;5.0;bag;3.05;14.1;0
+727;lalique;encre noire;485;134.95;100.0;edt;men;woody;cashmere wood musk;haiti vetiver bourbon vetiver;4.05;abu al tayyeb perfumes;3.06;59.0;0
+729;lalique;encre noire;485;136.95;100.0;edt;men;woody;cashmere wood musk;haitian vetiver;4.05;parvant store;4.01;76.0;0
+731;franck olivier;oud touch;163;85.0;100.0;edp;men;woody;amber musk vanilla;violet patchouli rose jasmine olibanum;4.07;beautiful live;3.09;7.0;0
+737;roberto cavalli;uomo;452;126.0;100.0;edt;men;floral;cedar tonka bean patchouli;honey lavender;4.06;noon;4.02;98.1;0
+738;boucheron;quatre absolue de nuit;125.95;125.95;100.0;edp;women;arabian;sandalwood vanilla amberwood;jasmine tonka bean pear;4.08;kingperfume;3.09;450.0;1
+741;roberto cavalli;uomo;452;134.95;100.0;edt;men;floral;cedar patchouli tonka bean;honey lavender;4.06;noon;4.02;98.1;0
+742;guerlain;lhomme ideal;06.05;6.05;1.0;edt;men;floral;vanilla amber musk patchouli;jasmine geranium neroli ylangylang;5.0;princess beauty;3.08;467.0;1
+744;lattafa;rouat al musk;68;38.95;100.0;edp;women;oriental;vanilla amber;jasmine white flowers sandalwood;4.08;noon;4.02;98.1;0
+745;mancera;wild leather;320;224.0;120.0;edp;unisex;woody;amber guaiac wood leather lichen musk;bulgarian rose patchouli violet;4.04;noon;4.02;98.1;0
+746;misk perfumes;white musk perfume;05.35;5.35;6.0;oil;unisex;musk;tail rose;vanilla flowers;3.08;warddah;3.07;56.0;0
+747;alina corel;monsieur coco vanilla;65;31.85;100.0;edp;unisex;floral;white musk woody notes madagascar vanilla;jasmine ylangylang tiare flower;4.07;noon;4.02;98.1;0
+749;dorall collection;golden blaze;11;11.0;100.0;edp;women;musk;musk patchouli amber;ylangylang jasmine;4.03;top langri;3.07;347.0;1
+753;al fakhr;kalam al oud;13.03;13.03;100.0;edp;unisex;woody;sandalwood cedarwood;black pepper cardamom;3.03;beauty;4.01;538.0;1
+754;hugo boss;orange edt sp;199;110.0;100.0;edt;men;floral;vanilla woodsy notes;incense sichuan pepper;4.08;acacia rose;4.04;537.0;1
+755;armaf;club de nuit milestone;135;135.0;105.0;edp;women;floral;vetiver musk ambroxan;violet sandalwood white wood;5.0;attractive perfume;3.05;244.0;0
+756;bvlgari;man black;485;187.0;100.0;edp;men;spicy;tonka bean guaiac wood benzoin;leather iris tuberose;4.06;kado store;4.02;20.0;0
+759;pierra katra;velvet oud;97;97.0;100.0;edp;men;arabian;cashmere wood amber musk;floral harmony magnolia honeysuckle sweet fruity raspberry nuance;3.0;london store;3.07;23.0;0
+762;versace;eros;510;208.0;100.0;edp;women;citrus;sandalwood ambroxan woodsy notes musk;lemon blossom jasmine sambac jasmine peony;4.05;kingperfume;3.09;450.0;1
+763;versace;eros;510;234.95;100.0;edp;women;citrus;musk ambroxan woodsy notes sandalwood;lemon blossom jasmine sambac jasmine peony;4.06;noon;4.02;98.1;0
+764;lancome;la vie est belle;560;217.0;75.0;edp;women;vanilla;patchouli praline tonka beans vanilla;iris jasmine orange tree blossom;4.04;alnajm;3.07;347.0;1
+767;lanvin;lhomme;110;110.0;100.0;edt;men;spicy;sandalwood amber musk;comprise pepper mint sage cardamom;5.0;queen beauty;3.09;135.0;0
+768;estee lauder;wood mystique;784;479.0;100.0;edp;unisex;woody;patchouli virginia cedar benzoin agarwood leather raspberry;iris jasmine ylangylang rose mimosa;5.0;alabeer;4.0;5.0;0
+770;armand basi;red;275;107.95;100.0;edt;women;citrus;palisander rosemary oakmoss white musk amber vanilla praline woody notes;lily jasmine violet leaf rose blackcurrant pink pepper peony;4.05;parvant store;3.09;76.0;0
+772;dorall collection;lancy;27;0.517361111;100.0;edt;women;spicy;tonka praline patchouli vanilla;iris orange blossom jasmine;4.05;beauty;3.09;538.0;1
+773;gucci;guilty;354;213.95;75.0;edt;women;floral;lily wild strawberry;litchi;4.08;amlaq;3.09;135.0;0
+774;paco rabanne;one million;319;319.0;200.0;edt;men;woody;amber leather;cinnamon rose;4.05;number one;3.05;75.0;0
+775;versace;bright crystal;63;21.04;5.0;edt;women;floral;plants musk red woods;lotus peony magnolia;4.05;noon;4.02;98.1;0
+776;dorall collection;dc charged;0,649305556;0.649305556;100.0;edt;women;woody;praline coconut salt suede musk;floral notes apple;5.0;princess beauty;3.08;467.0;1
+777;davidoff;game;215;83.95;100.0;edt;men;woody;ebony wood;iris woody notes;4.09;noon;4.02;98.1;0
+778;hugo boss;boss scent;426;133.0;100.0;edt;men;spicy;leather;maninka fruit lavender;4.06;perfume ms;3.09;537.0;1
+779;swiss arabian;bakhoor al arais;15;15.0;50.0;edp;unisex;arabian;amber palisander rosewood;cedar spicy;4.06;hawas;454.0;9.0;2
+780;paco rabanne;invictus intense;199;199.0;100.0;edt;men;spicy;ambergris amber salt;laurels whiskey;4.07;parfumestor;3.09;537.0;1
+782;ferrari;cedar essence;360;106.0;100.0;edp;men;woody;patchouli amber;marine watermelon;4.04;amlaq;3.09;135.0;0
+783;jcasanova;plaisir;148;75.75;100.0;edp;women;oriental;amber;musk;4.08;top langri;4.02;347.0;1
+784;dorall collection;islanders;9;9.0;100.0;edt;men;woody;guaiac wood oakmoss patchouli ambergris;bay leaf jasmine;3.04;beauty gallery;3.07;59.0;0
+785;calvin klein;ck one;265;98.0;200.0;edt;unisex;citrus;sandalwood amber musk cedar oakmoss;nutmeg violet orris root jasmine lilyofthevalley rose;4.05;noon;4.02;98.1;0
+787;al raheeb;oud khurafi;36;36.0;100.0;edp;unisex;fresh;cashmeran ambroxan musk;woody;5.0;beautiful lady;445.0;8.0;2
+789;paco rabanne;black xs potion;162;162.0;100.0;edt;men;woody;labdanum rum;wormwood cashmere wood;4.03;beautiful live;412.0;7.0;2
+790;jaguar;vision iii;347;120.0;100.0;edt;men;woody;sandalwood patchouli tonka bean cedar vanilla musk;jasmine marine notes;3.08;magic flower;3.06;5.0;0
+791;versace;crystal noir;27;16.02;5.0;edt;women;arabian;amber musk sandalwood;orange blossom gardenia peony;4.04;noon;4.02;98.1;0
+792;dolce gabbana;pour femme;566;195.0;100.0;edp;women;floral;guimave vanilla heliotrope sandalwood;jasmine orange blossom;5.0;parfumestor;4.01;66.0;0
+794;roberto cavalli;florence;500;154.95;75.0;edp;women;floral;patchouli amber musk;orange blossom hibiscus seed grapefruit blossom;4.07;noon;4.02;98.1;0
+795;milton lloyd;hawaii london;51;23.0;55.0;edt;women;floral;woody notes musk;jasmine rose;4.0;hawas;4.02;9.0;0
+797;versace;crystal noir;447;215.0;90.0;edt;women;spicy;sandalwood musk amber;orange blossom peony gardenia coconut;4.08;noon;4.02;98.1;0
+799;lanvin;eclat darpege;0,309027778;0.309027778;2.0;edp;women;floral;blackberry sensual musk;musk chinese osmanthus petitgrain cedar wisteria;3.08;amlaq;3.09;135.0;1
+802;jcasanova;vivaldi;87;87.0;100.0;edp;women;fresh;tonka bean patchouli opoponax vanilla vetiver white musk;mimosa jasmine turkish rose ylangylang;5.0;ryhana perfume;4.02;25.0;0
+804;dunhill;desire blue;280;68.0;100.0;edt;men;fresh;tonka bean musk amber benzoin;orange brazilian rosewood sea notes;4.03;modon;3.09;71.0;0
+805;azzaro;chrome;121;121.0;100.0;edt;men;citrus;sandalwood tonka bean musk oakmoss cedar brazilian rosewood cardamom;cyclamen coriander jasmine oakmoss;5.0;instant;3.07;44.0;0
+806;yves saint laurent;black opium;620;364.65;90.0;edp;women;vanilla;musk white wood;jasmine tea orrange blossom coffee;4.08;noon;4.02;98.1;0
+808;dorall;blue princess;0,517361111;0.517361111;100.0;edt;men;oriental;musk patchouli;woody vetiver;5.0;hawas;454.0;9.0;2
+809;guess;seductive;177;86.75;75.0;edt;women;spicy;vanille olibanum cashmere wood;jasmine african orange flower orris root;5.0;noon;4.02;98.1;0
+810;hugo boss;boss scent;535;155.0;100.0;edp;women;fruity;cacao;osmanthus;4.06;hadayiq baris;3.08;122.0;0
+811;avon;today tomorrow always;98.95;98.95;75.0;edt;men;citrus;sandalwood patchouli amber;anise;5.0;victoria;3.06;30.0;0
+813;mb;tim tom leather black;19;19.0;100.0;edp;men;fresh;rose vanilla ginger;pine cardamom lavender rosemary;3.03;beautify;3.06;528.0;1
+814;diesel;plus plus masculine;50;30.0;75.0;edt;men;spicy;vetiver musk sandalwood patchouli oak moss nutmeg clove cinnamon tonka bean anise;jasmine birch sage cardamom coriander lilyofthevalley violet green notes;4.05;attractive perfume;3.05;244.0;1
+815;lacoste;edttouch pink wom;335;89.0;90.0;edt;women;citrus;woody musk vanilla;jasmine carrot spicy coriander;4.08;cute shop;3.07;98.0;0
+816;gucci;guilty absolute;515;230.0;90.0;edp;men;woody;woody notes vetiver;patchouli cypress;4.01;rayhanti;3.08;537.0;1
+817;amouage;epic;653;653.0;100.0;edp;women;jasmine;rose geranium jasmine tea;rose geranium jasmine tea;4.03;beautiful live;412.0;7.0;2
+818;versace;bright crystal;430;169.95;90.0;edt;women;floral;amber musk mahogany;peonylotus magnolia;4.08;noon;4.02;98.1;0
+819;mb;sweetheart rockstar;10.08;10.08;100.0;edp;women;fresh;rose vanilla ginger;pine cardamom lavender rosemary;4.05;beautify;3.06;531.0;1
+821;davidoff;hot water;215;76.95;110.0;edt;men;arabian;styrax benzoin;pimento patchouli;4.06;amlaq;3.09;135.0;0
+822;st dupont;passenger;103;103.0;100.0;edt;men;spicy;guaiac wood benzoin;ginger cardamom pink pepper lavender;5.0;beautiful live;412.0;7.0;2
+825;joop;homme;223;55.0;125.0;edt;men;citrus;vanilla tonka bean patchouli sandalwood;jasmine lily valley heliotrope cinnamon;4.04;hadayiq baris;3.08;122.0;0
+827;tesori doriente;white musk;60;39.95;100.0;edt;men;woody;aldehyde jasmine white flowers;rose;4.02;bag;3.08;14.1;0
+828;stella mccartney;stella;460;197.95;100.0;edp;women;floral;amber;rose;4.08;noon;4.02;98.1;0
+830;alina corel;ever;33.85;33.85;100.0;edp;men;spicy;guaiac wood benzoin;ginger cardamom pink pepper lavender;5.0;beautiful live;412.0;7.0;2
+834;paco rabanne;million;395;172.0;100.0;edt;men;woody;leather woody notes amber indian patchouli;rose cinnamon spicy notes;4.06;alnajm;3.07;347.0;1
+837;ted lapidus;creation;101;50.0;100.0;edt;women;floral;jasmine rose tuberose carnation;jasmine rose tuberose carnation;4.07;alkhalijiah perfume;3.05;88.0;0
+838;guerlain;linstant magic;725;422.0;100.0;edp;women;woody;wood almond;rose freesia;4.07;parfum;3.05;33.0;0
+839;lattafa;rouat al musk;68;38.95;100.0;edp;women;oriental;vanilla amber;jasmine white flowers sandalwood;4.08;noon;4.02;98.1;0
+840;dunhill;london;290;109.65;75.0;edt;men;arabian;patchouli sandalwood tonka bean vanilla musk;rose geranium jasmine;3.04;amlaq;3.09;135.0;0
+841;tri;en joy;10;9.09;100.0;edt;women;floral;sandalwood cedar patchoulli musk benzoin;rose jasmine cassis peach;4.01;parisian store;3.09;425.0;1
+842;mancera;roses greedy;450;258.95;120.0;edp;unisex;floral;white musk amber vanilla sugar benzoin;rose jasmine flowers;4.06;noon;4.02;98.1;0
+844;burberry;mr burberry;515;179.95;100.0;edp;men;woody;patchouli amber sandalwood vetiver benzoin cinnamon;lavender cedar nutmeg;4.05;noon;4.02;98.1;0
+845;dorall collection;oud maaruf;29;11.49;100.0;edt;men;arabian;sandalwood musk woody amber patchouli oudh dry woodyamber amber;rose raspberry dried fruits ylang geranium jasmin orris muguet saffron;4.0;bag;4.02;14.1;0
+849;mancera;roses vanille;450;285.0;120.0;edp;women;arabian;cedar vanilla sugar white musk;rose sugar;4.09;amlaq;3.09;135.0;0
+850;mancera;roses vanille;450;239.95;120.0;edp;women;arabian;vanilla sugar white musk cedar;rose sugar;4.07;noon;4.02;98.1;0
+853;bvlgari;man black;485;187.0;100.0;edp;men;spicy;tonka bean guaiac wood benzoin;leather iris tuberose;4.06;kado store;3.06;20.0;0
+856;alina corel;monsieur oud;51;30.95;100.0;edp;unisex;musk;cedar musk;rose water;4.05;noon;4.02;98.1;0
+857;versace;eros;510;208.0;100.0;edp;women;citrus;sandalwood ambroxan woodsy notes musk;lemon blossom jasmine sambac jasmine peony;4.05;kingperfume;3.06;450.0;1
+858;versace;eros;510;234.95;100.0;edp;women;citrus;musk ambroxan woodsy notes sandalwood;lemon blossom jasmine sambac jasmine peony;4.06;noon;4.02;98.1;0
+861;lalique;encre noire;165;140.0;100.0;edt;men;woody;sandalwood;lemongrass;4.04;kikup;3.06;23.0;0
+865;gucci;rush;576;361.0;50.0;edt;women;floral;oakmoss musk black currant;lily gardenia plam tree narcissus;4.04;tiffany;4.01;5.0;0
+868;jean paul gaultier;scandal;505;354.95;80.0;edp;women;floral;vanilla musk labdanum;tiare flower jasmine orange blossom;4.05;noon;4.02;98.1;0
+869;armand basi;red;275;107.95;100.0;edt;women;citrus;palisander rosemary oakmoss white musk amber vanilla praline woody notes;lily jasmine violet leaf rose blackcurrant pink pepper peony;4.05;parvant store;4.01;76.0;0
+870;versace;eros;430;202.0;100.0;edt;men;arabian;madagascar vanilla virginian cedar atlas cedar vetiver oakmoss;tonka bean geranium ambroxan;4.05;noon;4.02;98.1;0
+871;yves saint laurent;manifesto;725;207.85;90.0;edp;women;floral;cedar sandalwood vanilla tonka bean;lilyofthevalley jasmine sambac;3.0;number one;4.01;63.0;0
+872;gucci;bloom;695;325.65;100.0;edp;women;floral;rangoon creeper;tuberose;4.06;noon;4.02;98.1;0
+873;gucci;guilty;354;213.95;75.0;edt;women;floral;lily wild strawberry;litchi;4.08;amlaq;3.09;135.0;0
+874;gucci;bloom;573;315.85;100.0;edp;women;floral;rangoon creeper;tuberose;4.02;noon;4.02;98.1;0
+875;versace;crystal noir;447;172.0;90.0;edp;women;floral oriental;sandalwood cashmeran vanilla pod heliotropine;tuberose frangipani jasmine dry;4.04;flower;4.02;98.0;0
+876;hugo boss;boss scent;426;133.0;100.0;edt;men;spicy;leather;maninka fruit lavender;4.06;perfume ms;4.01;537.0;1
+877;gucci;bloom nettare di fiori;630;329.85;100.0;edp;women;floral;patchoulie musk schijnhulst;tuberose honeysuckle jasmine;4.03;noon;4.02;98.1;0
+879;lacoste;l blanc;244;88.0;100.0;edt;men;woody;leather suede cedar;mexican tuberose ylangylang;3.07;hadayiq baris;3.08;122.0;0
+882;niya;hawaiian musk;99;49.0;100.0;edp;men;woody;musk oakmoss vanilla;moroccan jasmine patchouli birch rose;4.05;noon;4.02;98.1;0
+883;genie collection;premium;35;14.05;25.0;edp;unisex;oriental;amber patchouli musk;tuberose ylangylang jasmine;5.0;genie collection;3.08;32.0;0
+884;guess;homme;210;98.0;100.0;edt;men;spicy;patchouli sandalwood amber musk;vanilla orchid violet leaves vetiver;4.04;starperfume;3.05;537.0;1
+886;niya;prive maison sandalwood;247;99.0;100.0;edp;men;woody;sandalwood vanilla musk;muguet violet tuberose;4.07;noon;4.02;98.1;0
+888;roberto cavalli;cavalli;357;101.95;90.0;edt;men;woody;leather;vetiver;4.08;noon;4.02;98.1;0
+889;avon;tomorrow;130;70.0;50.0;edp;women;floral;powdery floral woody balsamic rose;musk;4.05;tiffany;4.01;54.0;0
+890;jcasanova;plaisir;148;75.75;100.0;edp;women;oriental;amber;musk;4.08;top langri;4.03;347.0;1
+891;givenchy;pour homme;375;117.85;100.0;edt;men;spicy;labdanum cedar;vetiver lavender extract;4.07;hadayiq baris;3.08;122.0;0
+894;calvin klein;ck one;265;98.0;200.0;edt;unisex;citrus;sandalwood amber musk cedar oakmoss;nutmeg violet orris root jasmine lilyofthevalley rose;4.05;noon;4.02;98.1;0
+898;hugo boss;nuit;415;162.0;75.0;edp;women;floral;sandalwood crystal moss warm woods;violet jasmin white florals;4.08;amlaq;3.09;135.0;0
+899;roberto cavalli;florence;500;154.95;75.0;edp;women;floral;patchouli amber musk;orange blossom hibiscus seed grapefruit blossom;4.07;noon;4.02;98.1;0
+900;elizabeth taylor;white diamonds;220;118.85;100.0;edt;women;floral;oak moss patchouli musk sandalwood amber;violet rose jasmine ylangylang;4.03;noon;4.02;98.1;0
+903;dolce gabbana;limperatrice;300;156.75;100.0;edt;women;floral;citrus wood musks sandalwood;watermelon cyclamen jasmine;4.06;noon;4.02;98.1;0
+904;roberto;paradiso assoluto;515;127.65;75.0;edp;women;floral;patchouli sandalwood vanilla cashmeran;wild jasmine red lily passionfruit;4.05;noon;4.02;98.1;0
+906;roberto cavalli;paradiso assoluto;515;139.0;75.0;edp;women;floral;patchouli sandalwood vanilla cashmeran;wild jasmine red lily passionfruit;5.0;noon;4.02;98.1;0
+909;roberto cavalli;paradiso azzuro;499;175.0;75.0;edp;women;fruity;cypress cashmere wood amberwood sandalwood;wild jasmine watery notes apple peach rose tuberose;4.07;amlaq;3.09;135.0;0
+910;roberto cavalli;paradiso azzurro;499;165.0;75.0;edp;women;fruity;cypress cashmere wood amber wood sandalwood vanilla;wild jasmine watery notes apple tuberose peach rose;4.07;beauty group;4.02;124.0;0
+911;roberto cavalli;women;430;103.0;75.0;edp;women;arabian;benzointonka beansvanilla;orange tree blossom;5.0;richlight;3.05;69.0;0
+912;guess;dare;170;75.0;100.0;edt;women;citrus;coconut accords wood musk;wild rose elegant jasmine;4.09;noon;4.02;98.1;0
+913;dunhill;desire blue;280;68.0;100.0;edt;men;fresh;tonka bean musk amber benzoin;orange brazilian rosewood sea notes;4.03;modon;3.06;71.0;0
+914;burberry;women edp natural sp;378;153.75;100.0;edp;women;fruity;musk vanilla;woodyfloral sandalwood cedar;4.08;noon;4.02;98.1;0
+916;jovan;musk cologne sp;55;19.0;59.0;edt;women;woody;musk amber wood;ylangylang;4.07;cute;3.07;1.9;0
+918;hugo boss;scent;535;155.0;100.0;edp;women;fruity;cacao;osmanthus;4.05;noon;4.02;98.1;0
+919;davidoff;adventure;210;219.0;100.0;edt;men;woody;vetivercederwhitemusk;warm spices wild aromatic black sesame south american pimento;4.05;garmid;3.07;98.0;0
+921;dolce gabbana;limperatrice;300;300.0;100.0;edt;women;floral;citrus wood musks sandalwood;watermelon cyclamen jasmine;4.06;garmid;3.07;98.0;0
+922;mancera;red tobacco;590;340.0;120.0;edp;men;woody;precious tobacco amber woody notes vetiver vanilla pods white musk;patchouli leaves jasmine;4.07;faces;3.07;61.0;0
+924;roberto;paradiso assoluto;515;515.0;75.0;edp;women;floral;patchouli sandalwood vanilla cashmeran;wild jasmine red lily passionfruit;4.05;garmid;3.07;98.0;0
+925;roberto cavalli;paradiso assoluto;515;515.0;75.0;edp;women;floral;patchouli sandalwood vanilla cashmeran;wild jasmine red lily passionfruit;5.0;garmid;3.07;98.0;0
+926;gucci;guilty absolute;515;230.0;90.0;edp;men;woody;woody notes vetiver;patchouli cypress;4.01;rayhanti;3.05;537.0;1
+927;versace;bright crystal;430;169.95;90.0;edt;women;floral;amber musk mahogany;peonylotus magnolia;4.08;noon;4.02;98.1;0
+928;roberto cavalli;paradiso azzuro;499;499.0;75.0;edp;women;fruity;cypress cashmere wood amberwood sandalwood;wild jasmine watery notes apple peach rose tuberose;4.07;garmid;3.07;135.0;0
+929;dunhill;custom;330;89.85;100.0;edt;men;floral;virginia cedar incense;pepper;4.03;noon;4.02;98.1;0
+930;roberto cavalli;paradiso azzurro;499;499.0;75.0;edp;women;fruity;cypress cashmere wood amber wood sandalwood vanilla;wild jasmine watery notes apple tuberose peach rose;4.07;garmid;3.07;124.0;0
+931;guess;dare;170;75.0;100.0;edt;women;citrus;coconut accords wood musk;wild rose elegant jasmine;4.09;noon;3.07;98.1;0
+932;davidoff;hot water;215;76.95;110.0;edt;men;arabian;styrax benzoin;pimento patchouli;4.06;amlaq;3.09;135.0;0
+933;burberry;women edp natural sp;378;153.75;100.0;edp;women;fruity;musk vanilla;woodyfloral sandalwood cedar;4.08;garmid;3.07;98.0;0
+934;dolce gabbana;k;338;269.0;100.0;edt;men;woody;blood orange pressed sicilian lemon juniper berries;pimento clary sage geranium lavandin;4.01;grass gulf;3.07;98.0;0
+935;jovan;musk cologne sp;55;19.0;59.0;edt;women;woody;musk amber wood;ylangylang;4.07;garmid;3.07;1.9;0
+936;dolce gabbana;k;26;14.01;100.0;edt;men;aromatic;woody masculine cedarwood vetiver patchouli accords;pimento clary sage geranium lavandin;3.0;beautiful lady;4.03;5.0;0
+939;hugo boss;bottled unlimited;373;126.0;100.0;edt;men;vanilla;sandalwood musk;pineapple rose;4.04;alnajm;3.07;347.0;1
+940;giorgio armani;stronger;415;170.0;100.0;edt;men;vanilla;vanilla chestnut cedar amber wood guaiac wood;pineapple sage melon cinnamon lavender;4.05;hadayiq baris;3.08;122.0;0
+942;dorall collection;pink hearts;29;8.15;100.0;edt;women;floral;caramel musk tonka sandalwood vanilla;red berries lily valley licorice cotton candy strawberry;4.04;bag;3.07;14.1;0
+945;tesori doriente;white musk;60;39.95;100.0;edt;men;woody;aldehyde jasmine white flowers;rose;4.02;bag;3.07;14.1;0
+947;burberry;blush;431;181.0;50.0;edp;women;arabian;jasminewisteria;rose petals green apple geranium;4.06;fnoon;3.07;5.0;0
+949;guerlain;linstant magic;725;422.0;100.0;edp;women;woody;wood almond;rose freesia;4.07;parfum;4.01;33.0;0
+950;dunhill;london;290;109.65;75.0;edt;men;arabian;patchouli sandalwood tonka bean vanilla musk;rose geranium jasmine;3.04;amlaq;3.09;135.0;0
+951;burberry;body mini ed;34;23.0;5.0;edt;women;woody;sandalwood cashmerean musk amber vanilla;rose iris;1.0;royal scent;3.05;5.0;0
+952;tri;en joy;10;9.09;100.0;edt;women;floral;sandalwood cedar patchoulli musk benzoin;rose jasmine cassis peach;4.01;parisian store;4.01;425.0;1
+953;mancera;rose greedy;446;269.0;120.0;edp;unisex;rose floral;white musk amber vanilla sugar;rose jasmine flowers;4.05;amlaq;3.09;135.0;0
+954;dorall collection;oud maaruf;29;11.49;100.0;edt;men;arabian;sandalwood musk woody amber patchouli oudh dry woodyamber amber;rose raspberry dried fruits ylang geranium jasmin orris muguet saffron;4.0;bag;3.07;14.1;0
+956;mancera;roses vanille;450;285.0;120.0;edp;women;arabian;cedar vanilla sugar white musk;rose sugar;4.09;amlaq;3.09;135.0;0
+957;mancera;roses vanille;450;239.95;120.0;edp;women;arabian;vanilla sugar white musk cedar;rose sugar;4.07;noon;4.02;98.1;0
+959;parfums gres;cabotine;135;75.0;100.0;edt;women;floral;cedarwood vanilla tonka bean cybet musk amber;rose tuberose ylangylang ginger lily hyacinth heliotrope freesia violet iris;4.08;amlaq;3.09;135.0;0
+960;alina corel;monsieur oud;51;30.95;100.0;edp;unisex;musk;cedar musk;rose water;4.05;noon;4.02;98.1;0
+962;yves saint laurent;kouros silver;540;190.0;100.0;edt;men;fruity;amber woody notes;sage;4.05;queen beauty;3.05;5.0;0
+964;davidoff;cool water;150;71.75;75.0;edt;men;aromatic;musk oakmoss cedar amber;sandalwood geranium neroli jasmine;4.01;noon;4.02;98.1;0
+966;bvlgari;aqva marine pour homme;331;163.95;100.0;edt;men;citrus;virginia cedar amber;seaweed rosemary water notes;4.08;hadayiq baris;3.08;122.0;0
+971;bvlgari;petits et mamans;254;193.95;100.0;edt;women;floral;iris vanilla white peach powdery notes;sunflower chamomile rose;4.08;noon;4.02;98.1;0
+973;jean paul gaultier;scandal;505;354.95;80.0;edp;women;floral;vanilla musk labdanum;tiare flower jasmine orange blossom;4.05;noon;4.02;98.1;0
+975;gucci;bloom;695;325.65;100.0;edp;women;floral;rangoon creeper;tuberose;4.06;noon;4.02;98.1;0
+976;versace;crystal noir;447;172.0;90.0;edp;women;floral oriental;sandalwood cashmeran vanilla pod heliotropine;tuberose frangipani jasmine dry;4.04;flower;3.07;98.0;0
+977;gucci;bloom nettare di fiori;630;329.85;100.0;edp;women;floral;patchoulie musk schijnhulst;tuberose honeysuckle jasmine;4.03;noon;4.02;98.1;0
+979;carolina herrera;good girl;565;168.0;80.0;edp;women;arabian;tonka bean cocoa;tuberose jasmine sambac;4.01;hadayiq baris;3.08;122.0;0
+980;genie collection;premium;35;14.05;25.0;edp;unisex;oriental;amber patchouli musk;tuberose ylangylang jasmine;5.0;genie collection;3.07;32.0;0
+981;rasasi;oud almubakhar;40;30.85;100.0;edp;men;arabian;sandalwood tonka bean musk patchouli;turkish rose violet geranium;4.0;noon;4.02;98.1;0
+983;roberto cavalli;nero assoluto;515;105.0;75.0;edp;women;arabian;ebony woody notes;vanilla;4.06;noon;4.02;98.1;0
+984;guess;homme;210;98.0;100.0;edt;men;spicy;patchouli sandalwood amber musk;vanilla orchid violet leaves vetiver;4.04;starperfume;3.09;537.0;1
+986;roberto cavalli;cavalli;357;101.95;90.0;edt;men;woody;leather;vetiver;4.08;noon;4.02;98.1;0
+987;hugo boss;bottled night;688;250.0;200.0;edt;men;woody;musk woody notes;violet;4.05;lady style;3.06;5.0;0
+990;hugo boss;nuit;415;162.0;75.0;edp;women;floral;sandalwood crystal moss warm woods;violet jasmin white florals;4.08;amlaq;3.09;135.0;0
+991;elizabeth taylor;white diamonds;220;118.85;100.0;edt;women;floral;oak moss patchouli musk sandalwood amber;violet rose jasmine ylangylang;4.03;noon;4.02;98.1;0
+994;montblanc;legend spirit;342;140.0;100.0;edt;men;citrus;white musk white woods cashmere wood oakmoss;water notes lavender cardamom;4.07;hadayiq baris;3.08;122.0;0
+995;bvlgari;petits et mamans;327;197.75;100.0;edt;women;floral;iris vanilla;white peach;4.08;tiffany;4.01;75.0;0
+996;roberto cavalli;paradiso assoluto;515;139.0;75.0;edp;women;floral;patchouli sandalwood vanilla cashmeran;wild jasmine red lily passionfruit;5.0;noon;4.02;98.1;0
+997;roberto cavalli;paradiso azzurro;499;165.0;75.0;edp;women;fruity;cypress cashmere wood amber wood sandalwood vanilla;wild jasmine watery notes apple tuberose peach rose;4.07;beauty group;4.03;124.0;0
+998;guess;dare;170;75.0;100.0;edt;women;citrus;coconut accords wood musk;wild rose elegant jasmine;4.09;noon;4.02;98.1;0
+999;burberry;women edp natural sp;378;153.75;100.0;edt;women;fruity;musk vanilla;woodyfloral sandalwood cedar;4.08;noon;4.02;98.1;0
+1000;jovan;musk cologne sp;55;19.0;59.0;edt;women;woody;musk amber wood;ylangylang;4.07;cute;3.07;1.9;0
+1001;swiss arabian;layali cpo;126;77.0;15.0;edt;unisex;arabian;agarwood amber;ylangylang rose jasmine;4.0;swiss arabian perfumesprice update vat july;3.09;5.0;0

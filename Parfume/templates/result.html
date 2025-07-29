@@ -2,17 +2,25 @@
 
 {% block content %}
     <!-- MAIN CONTAINER -->        
-        <h1 class="pt-8 pb-2 text-xl font-bold text-[#29363B]" id="myList">For You!</h1>
+    <h1 class="pt-8 pb-2 text-xl font-bold text-[#29363B]" id="myList">For You!</h1>
+    {% if parfumes %}
         <div class="grid grid-cols-4 overflow-clip gap-6">
             {% for parfume in parfumes %}
                 <a>
                     <div class="border border-black w-64 h-36 flex flex-col justify-center items-center p-3 bg-[#F6B26B] rounded-lg">
                         <span class="text-center font-bold">{{ parfume.brand }}</span>
                         <span class="text-center font-medium">{{ parfume.name }}</span>
-                        <span class="text-center">${{ parfume.price }}</span>
+                        <span class="text-center">${{ parfume.new_price }}</span>
+                        <span class="text-center mt-5"><small>Similarity Score: {{ parfume.similarity_percentage }}%</small></span>
                     </div>
                 </a>
             {% endfor %}
         </div>
+    {% else %}
+        <div class="flex flex-col items-center justify-center h-48">
+            <span class="text-lg font-semibold text-gray-700">Maaf, tidak ada parfum yang sesuai dengan preferensi Anda.</span>
+            <span class="text-sm text-gray-500 mt-2">Silakan ubah kriteria pencarian atau coba lagi dengan preferensi yang berbeda.</span>
+        </div>
+    {% endif %}
     <!-- END OF MAIN CONTAINER -->
 {% endblock %}

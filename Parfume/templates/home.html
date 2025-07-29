@@ -13,5 +13,17 @@
                 </a>
             {% endfor %}
         </div>
+
+        <h1 class="pt-8 pb-2 text-xl font-bold text-[#29363B]" id="myList">Because You Like {{ prev_parfume.scent }} Parfume</h1>
+        <div class="grid grid-cols-4 overflow-clip gap-6">
+            {% for p in rec_parfumes %}
+                <a>
+                    <div class="border border-black w-64 h-36 flex flex-col justify-center items-center p-3 bg-[#F6B26B] rounded-lg">
+                        <span class="text-center">{{ p.name }}</span>
+                        <span class="text-center">${{ p.new_price }}</span>
+                    </div>
+                </a>
+            {% endfor %}
+        </div>
     <!-- END OF MAIN CONTAINER -->
 {% endblock %}

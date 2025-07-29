@@ -1,5 +1,6 @@
 {% extends 'index.html' %}
 
+{% comment %} Versi Ina {% endcomment %}
 {% block content %}
     <!-- MAIN CONTAINER -->
     <div class="flex flex-col justify-between items-center">
@@ -7,56 +8,69 @@
             <span class="w-[30%] text-center text-[#29363B] text-xl font-bold bg-[#FDE2C7] px-5 py-1 rounded-lg border border-black">
                 Find Your Perfume!
             </span>
-            <form action="{% url 'recommendations' %}" method="POST" class="mb-0">
+            <form action="{% url 'recommendations' %}" method="POST" class="mb-0 w-full">
                 {% csrf_token %}
-                <div class="grid grid-cols-2 gap-x-36 gap-y-6 mt-10">                    
-                    
-                    <!-- Preferred Scent (Dropdown) -->
-                    <div class="text-left w-[450px]">
-                        <label class="text-[#29363B] font-medium">Scent</label>
-                        <select name="scent" class="w-full p-2 border rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-400">
-                            {% for value, label in form.scent.field.choices %}
-                                <option value="{{ value }}">{{ label }}</option>
-                            {% endfor %}
-                        </select>
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mt-8">
+                    <!-- Scent Group -->
+                    <div class="space-y-4">
+                        <!-- Preferred Scent -->
+                        <div>
+                            <label class="block text-[#29363B] font-medium mb-2">Scent</label>
+                            <select name="scent" class="w-full p-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-400 focus:border-transparent transition-all">
+                                {% for value, label in form.scent.field.choices %}
+                                    {% if value == form.scent.value %}
+                                        <option selected value="{{ value }}">{{ label }}</option>
+                                    {% else %}
+                                        <option value="{{ value }}">{{ label }}</option>
+                                    {% endif %}
+                                {% endfor %}
+                            </select>
+                        </div>
+
+                        <!-- Base Note -->
+                        <div>
+                            <label class="block text-[#29363B] font-medium mb-2">Base Note</label>
+                            <input type="text" name="base_note" value="{{ form.base_note.value }}"
+                                class="w-full p-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-400 focus:border-transparent transition-all">
+                        </div>
+
+                        <!-- Middle Note -->
+                        <div>
+                            <label class="block text-[#29363B] font-medium mb-2">Middle Note</label>
+                            <input type="text" name="middle_note" value="{{ form.middle_note.value }}"
+                                class="w-full p-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-400 focus:border-transparent transition-all">
+                        </div>
                     </div>
 
-                    <!-- Base Note -->
-                    <div class="text-left w-[450px]">
-                        <label class="text-[#29363B] font-medium">Base Note</label>
-                        <input type="text" name="base_note"
-                            class="w-full p-2 border rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-400">
-                    </div>
+                    <!-- Concentration Group -->
+                    <div class="space-y-4">
+                        <!-- Concentration -->
+                        <div>
+                            <label class="block text-[#29363B] font-medium mb-2">Concentration</label>
+                            <select name="concentration" class="w-full p-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-400 focus:border-transparent transition-all">
+                                {% for value, label in form.concentration.field.choices %}
+                                    {% if value == form.concentration.value %}
+                                        <option selected value="{{ value }}">{{ label }}</option>
+                                    {% else %}
+                                        <option value="{{ value }}">{{ label }}</option>
+                                    {% endif %}
+                                {% endfor %}
+                            </select>
+                        </div>
 
-                    <!-- Middle Note -->
-                    <div class="text-left w-[450px]">
-                        <label class="text-[#29363B] font-medium">Middle Note</label>
-                        <input type="text" name="middle_note"
-                            class="w-full p-2 border rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-400">
-                    </div>
+                        <!-- Capacity -->
+                        <div>
+                            <label class="block text-[#29363B] font-medium mb-2">Capacity (ml)</label>
+                            <input type="number" name="ml" step="0.1" value="{{ form.ml.value }}"
+                                class="w-full p-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-400 focus:border-transparent transition-all">
+                        </div>
 
-                    <!-- Capacity (ml) -->
-                    <div class="text-left w-[450px]">
-                        <label class="text-[#29363B] font-medium">Capacity (ml)</label>
-                        <input type="number" name="ml" step="0.1"
-                            class="w-full p-2 border rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-400">
-                    </div>
-
-                    <!-- Concentration (Dropdown) -->
-                    <div class="text-left w-[450px]">
-                        <label class="text-[#29363B] font-medium">Concentration</label>
-                        <select name="concentration" class="w-full p-2 border rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-400">
-                            {% for value, label in form.concentration.field.choices %}
-                                <option value="{{ value }}">{{ label }}</option>
-                            {% endfor %}
-                        </select>
-                    </div>
-
-                    <!-- Price -->
-                    <div class="text-left w-[450px]">
-                        <label class="text-[#29363B] font-medium">Maximum Price ($)</label>
-                        <input type="number" name="price" step="0.01"
-                            class="w-full p-2 border rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-400">
+                        <!-- Price -->
+                        <div>
+                            <label class="block text-[#29363B] font-medium mb-2">Maximum Price ($)</label>
+                            <input type="number" name="price" step="0.01" value="{{ form.price.value }}"
+                                class="w-full p-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-400 focus:border-transparent transition-all">
+                        </div>
                     </div>
                 </div>
 
@@ -71,3 +85,145 @@
     </div>
     <!-- END OF MAIN CONTAINER -->
 {% endblock %}
+
+
+
+
+
+
+
+
+
+
+{% comment %} Versi Bu Fitri {% endcomment %}
+{% comment %} {% block content %}
+    <!-- MAIN CONTAINER -->
+    <div class="flex flex-col justify-between items-center">
+        <div class="bg-[#F6B26B] flex flex-col justify-center items-center w-[80%] border border-black rounded-lg p-8 mt-4">
+            <span class="w-[30%] text-center text-[#29363B] text-xl font-bold bg-[#FDE2C7] px-5 py-1 rounded-lg border border-black">
+                Find Your Perfume!
+            </span>
+            <form action="{% url 'recommendations' %}" method="POST" class="mb-0 w-full">
+                {% csrf_token %}
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mt-8">
+                    <!-- Left Column -->
+                    <div class="space-y-4">
+                        <!-- Brand -->
+                        <div>
+                            <label class="block text-[#29363B] font-medium mb-2">Brand</label>
+                            <input type="text" name="brand" value="{{ form.brand.value }}"
+                                class="w-full p-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-400 focus:border-transparent transition-all">
+                        </div>
+
+                        <!-- Name -->
+                        <div>
+                            <label class="block text-[#29363B] font-medium mb-2">Product Name</label>
+                            <input type="text" name="name" value="{{ form.name.value }}"
+                                class="w-full p-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-400 focus:border-transparent transition-all">
+                        </div>
+
+                        <!-- Scent -->
+                        <div>
+                            <label class="block text-[#29363B] font-medium mb-2">Scent</label>
+                            <select name="scent" class="w-full p-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-400 focus:border-transparent transition-all">
+                                {% for value, label in form.scent.field.choices %}
+                                    <option value="{{ value }}" {% if value == form.scent.value %}selected{% endif %}>{{ label }}</option>
+                                {% endfor %}
+                            </select>
+                        </div>
+
+                        <!-- Base Note -->
+                        <div>
+                            <label class="block text-[#29363B] font-medium mb-2">Base Note</label>
+                            <input type="text" name="base_note" value="{{ form.base_note.value }}"
+                                class="w-full p-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-400 focus:border-transparent transition-all">
+                        </div>
+
+                        <!-- Middle Note -->
+                        <div>
+                            <label class="block text-[#29363B] font-medium mb-2">Middle Note</label>
+                            <input type="text" name="middle_note" value="{{ form.middle_note.value }}"
+                                class="w-full p-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-400 focus:border-transparent transition-all">
+                        </div>
+                    </div>
+
+                    <!-- Right Column -->
+                    <div class="space-y-4">
+                        <!-- Department -->
+                        <div>
+                            <label class="block text-[#29363B] font-medium mb-2">Department</label>
+                            <select name="department" class="w-full p-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-400 focus:border-transparent transition-all">
+                                {% for value, label in form.department.field.choices %}
+                                    <option value="{{ value }}" {% if value == form.department.value %}selected{% endif %}>{{ label }}</option>
+                                {% endfor %}
+                            </select>
+                        </div>
+
+                        <!-- Concentration -->
+                        <div>
+                            <label class="block text-[#29363B] font-medium mb-2">Concentration</label>
+                            <select name="concentration" class="w-full p-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-400 focus:border-transparent transition-all">
+                                {% for value, label in form.concentration.field.choices %}
+                                    <option value="{{ value }}" {% if value == form.concentration.value %}selected{% endif %}>{{ label }}</option>
+                                {% endfor %}
+                            </select>
+                        </div>
+
+                        <!-- Seller -->
+                        <div>
+                            <label class="block text-[#29363B] font-medium mb-2">Seller</label>
+                            <input type="text" name="seller" value="{{ form.seller.value }}"
+                                class="w-full p-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-400 focus:border-transparent transition-all">
+                        </div>
+
+                        <!-- Capacity -->
+                        <div>
+                            <label class="block text-[#29363B] font-medium mb-2">Capacity (ml)</label>
+                            <input type="number" name="ml" step="1" value="{{ form.ml.value }}"
+                                class="w-full p-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-400 focus:border-transparent transition-all">
+                        </div>
+
+                        <!-- Price -->
+                        <div>
+                            <label class="block text-[#29363B] font-medium mb-2">Price ($)</label>
+                            <input type="number" name="new_price" step="0.01" value="{{ form.new_price.value }}"
+                                class="w-full p-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-400 focus:border-transparent transition-all">
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Additional Fields Below -->
+                <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mt-6">
+                    <!-- Item Rating -->
+                    <div>
+                        <label class="block text-[#29363B] font-medium mb-2">Minimum Item Rating</label>
+                        <input type="number" name="item_rating" min="0" max="5" step="0.1" value="{{ form.item_rating.value }}"
+                            class="w-full p-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-400 focus:border-transparent transition-all">
+                    </div>
+
+                    <!-- Seller Rating -->
+                    <div>
+                        <label class="block text-[#29363B] font-medium mb-2">Minimum Seller Rating</label>
+                        <input type="number" name="seller_rating" min="0" max="5" step="0.1" value="{{ form.seller_rating.value }}"
+                            class="w-full p-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-400 focus:border-transparent transition-all">
+                    </div>
+
+                    <!-- Number of Seller Ratings -->
+                    <div>
+                        <label class="block text-[#29363B] font-medium mb-2">Minimum Seller Ratings Count</label>
+                        <input type="number" name="num_seller_ratings" min="0" step="1" value="{{ form.num_seller_ratings.value }}"
+                            class="w-full p-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-400 focus:border-transparent transition-all">
+                    </div>
+                </div>
+
+                <!-- Submit Button -->
+                <div class="text-center mt-8">
+                    <button class="bg-[#FDE2C7] text-[#29363B] px-20 py-1 border border-black rounded-lg font-medium" type="submit">
+                        Submit
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+    <!-- END OF MAIN CONTAINER -->
+{% endblock %} {% endcomment %}
